@@ -9,6 +9,6 @@
 I have to restart my blog because there is a node version error that I do not have the time to look into and fix. I figure a fresh start is probably the best way for this situation. Looking forward to some great accomplishments in the future!
 
 **Link to work:** 
-1. [Ford GoBike Dashboard](https://github.com/iccir919/ford-gobike-dashboard)
-2. [Blog](https://github.com/iccir919/blog)
+1. [Ford GoBike Dashboard](https://github.com/iccir919/ford-gobike-dashboard) git branch = react-dashboard
+2. [Blog](https://github.com/iccir919/blog) git branch = restart
 
