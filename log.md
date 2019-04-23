@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 1: April 22, 2019
+
+**Today's Progress**: Put a cover image on my Ford Bike Dashboard, completed Check Permutation 
+
+**Thoughts:** 
+It's funny how little time I think some tasks, like adding a cover image on my project will take me, and then how long they actually take me. I estimated twenty minutes but it actaully took me an hour. The template I am working with has a lot of pre-made components that only work with each other. I had the idea that I should go to a more basic template but this template looks too good and I have gone too far (two days 😉).
+
+I finished my second question, Check Permutation, from Cracking the Coding Interview. I am learning in reading the book's solutions how to be more analytical when approaching a question rather than diving into the answer immediately. Like in regards to a permutation, can 'dog' be considered the same thing as 'GOD'?
+
+**Link to work:** 
+1. [Ford GoBike Dashboard](https://github.com/iccir919/ford-gobike-dashboard) git branch = react-dashboard
+2. [Cracking the Coding Interview](https://github.com/iccir919/CtCI)
+
 ### Day 1: April 21, 2019
 
 **Today's Progress**: Added map.gl to the Ford GoBike Dashboard (removing Google Maps) and started work on another question from Cracking the Coding Interview
