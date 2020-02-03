@@ -1,45 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 1: April 22, 2019
+### Day 1: February 2, 2019
 
-**Today's Progress**: Put a cover image on my Ford Bike Dashboard, completed Check Permutation 
+**Today's Progress**: Restarting mapping tool to find flattest routes and avoid the hilliest routes.
 
-**Thoughts:** 
-It's funny how little time I think some tasks, like adding a cover image on my project will take me, and then how long they actually take me. I estimated twenty minutes but it actaully took me an hour. The template I am working with has a lot of pre-made components that only work with each other. I had the idea that I should go to a more basic template but this template looks too good and I have gone too far (two days 😉).
+**Thoughts:**
+I am excited to restart this challenge. It has been 10 months since I last attempted it. **I will not fail this time.** This application will be made with [React](https://reactjs.org/), a declarative and component-based JavaScript library. Since it has been a while (and the API has maybe changed since I last worked with React), I have completed both tutorials offered on the offical website.
 
-I finished my second question, Check Permutation, from Cracking the Coding Interview. I am learning in reading the book's solutions how to be more analytical when approaching a question rather than diving into the answer immediately. Like in regards to a permutation, can 'dog' be considered the same thing as 'GOD'?
+**Link to work:**
 
-**Link to work:** 
-1. [Ford GoBike Dashboard](https://github.com/iccir919/ford-gobike-dashboard) git branch = react-dashboard
-2. [Cracking the Coding Interview](https://github.com/iccir919/CtCI)
-
-### Day 1: April 21, 2019
-
-**Today's Progress**: Added map.gl to the Ford GoBike Dashboard (removing Google Maps) and started work on another question from Cracking the Coding Interview
-
-**Thoughts:** 
-I restarted another project from the past, my answers from the questions in the book Cracking the Coding Interview. It hurts me a little to bit know how long this book has been sitting on my desk and how many interviews it could have saved me. The key will be me finishing it this time!
-
-I replaced Google Maps from my Ford GoBike project with map.gl with the hopes of adding deck.gl soon. I want my map visualization to be even more beautiful than the first version with me and p5.js. There was some difficulty making the map responsive but I found help within the Vis Academy. Then, since I couldn't find the answer within the [issue on Github](https://github.com/uber/react-map-gl/issues/135), I posted a link to the tutorial. This is the first time that I have responded to an issue on Github!
-
-
-**Link to work:** 
-1. [Ford GoBike Dashboard](https://github.com/iccir919/ford-gobike-dashboard) git branch = react-dashboard
-2. [Cracking the Coding Interview](https://github.com/iccir919/CtCI)
-
-
-### Day 0: April 20, 2019
-
-**Today's Progress**: Ford GoBike Dashboard, and the App Script project for the University of Haifa
-
-**Thoughts:** 
-This past week has been one of the worst for me in terms of coding. Despite having time to code, for some reason I did not do it. I am committing today to coding for at least one hour a day on a project. It is not good for me to code a lot during one day of the week and then completely remove myself from code from all the others. 
-
-For my Ford GoBike Dashboard project, I wanted to use one of the latest data visualiation libraries, [react-vis](https://github.com/uber/react-vis), but ultimately I decide to continue using Chartist and hopefully, in the future, I will switch over.
-
-I restarted the Vis Academy today. I started it in January and never got around to finishing it. Actually, currently it is impossible to finish because part of the course is obsolete because of the newer version of the library. 
-
-**Link to work:** 
-1. [Ford GoBike Dashboard](https://github.com/iccir919/ford-gobike-dashboard) git branch = react-dashboard
-2. [Group Pulse Watch](https://github.com/iccir919/groupPulseWatch), project for the University of Haifa
-3. [Vis Academy](http://vis.academy/#/)
+1. ["Hello World", A Step-by-step Guide to React](https://reactjs.org/tutorial/tutorial.html)
+2. [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
+3. [Bay Wheels Planner](https://github.com/iccir919/bay-wheels-planner)
