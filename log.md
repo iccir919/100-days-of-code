@@ -2,7 +2,7 @@
 
 ### Day 2: Februrary 3, 2019
 
-**Today's Progress**: Completed 
+**Today's Progress**: Completed the article Main Concepts from React docs, worked on adding tests to Pomodoro Clock project, and rendered markers on the map for Bay Wheels Planner
 
 **Thoughts:**
 Finished reading the React article I wrote about yesterday and it is an excellent reference. It really hammers on the fundamentals of React. For Bay Wheels Planner, I am I was able to get all of the e-bikes or station locations for the Bay Wheels system to render on my map.
