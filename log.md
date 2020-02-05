@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 3: Februrary 4, 2019
+
+**Today's Progress**: Rewrote the code for the Markers in the Bay Area Planner and added more tests to the Pomodoro Clock
+
+**Thoughts:** How to get over the feeling of not doing enough? I have this problem, especially since it has been two **years** since I completed the [Hack Reactor](https://www.hackreactor.com/) bootcamp, which was very expensive and did not change my career as advertised on their website. Yet, after reviewing my portfolio today, the code I have displayed is not very complex or impressive.
+
+To make up for lost time, I am trying harder than ever to make my current and future projects extraordinary. It would be amazing, yet unrealistic based off my history, to keep up this momentum for fifty, even twenty days. Since I graduated Hack Reactor, I kept telling myself that I need to learn how to write tests; now, I am finally writing them!
+
+
+**Link to work:**
+1. [Bay Wheels Planner](https://github.com/iccir919/bay-wheels-planner)
+2. [Pomodoro Clock](https://github.com/iccir919/pomodoro-clock)
+
 ### Day 2: Februrary 3, 2019
 
 **Today's Progress**: Completed the article Main Concepts from React docs, worked on adding tests to Pomodoro Clock project, and rendered markers on the map for Bay Wheels Planner
