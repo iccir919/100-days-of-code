@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 5: Februrary 6, 2020
+
+**Today's Progress**: Completed a couple sections from the [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) course by Mozilla and added a Portfolio project to [Responisve Web Design Projects for freeCodeCamp](https://github.com/iccir919/fcc-responsive-web-design-projects)
+
+**Thoughts:** How to get over the feeling of not doing enough? Today is the first day in this challenge where I did not accomplish a lot of quantative work. In all honesty, I spent the hour reading through the Mozilla course and I did not change a lot of code in any of my projects. If my productivity was based off how many lines of code I changed, then it could be said my day was not fruitful. 
+
+My goal for this weekend is to not mess around like every weekend before for the past two years and complete the Mozilla web development course. Hopefully, my projects for freeCodeCamp will make some great progress too. I am excited about adding the portfolio project my [Responisve Web Design Projects for freeCodeCamp](https://github.com/iccir919/fcc-responsive-web-design-projects) directory. While I have a portfolio live right now, it has not been updated in more than a year. 
+
+**Link to work:**
+- [Responisve Web Design Projects for freeCodeCamp](https://github.com/iccir919/fcc-responsive-web-design-projects)
+- [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) 
+
 ### Day 4: Februrary 5, 2020
 
 **Today's Progress**: Added content and better HTML structure to my Responisve Web Design Projects
