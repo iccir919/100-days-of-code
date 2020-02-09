@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 7: Februrary 8, 2020
+
+**Today's Progress**: Installed google-maps-react and added the radio inputs and logic for state to the Bay Wheels Planner
+
+**Thoughts:**  Today was a weekend day for me and I did not accomplish a lot (at least by judging myself based off the amount code I changed or added). In my Bay Wheels Planner project there has been a conisistent problem with using just the Google Maps API through JavaScript where the map does not show on the initial load of the site. I know it has something to do with the component lifecycle. I could look into the issue more deeply, but in the name of progress, I will use a (different from the one before) library for my Google Maps integration into my application. The tutorial [How to Integrate the Google Maps API into React Applications](https://www.digitalocean.com/community/tutorials/how-to-integrate-the-google-maps-api-into-react-applications) helped me with this process. I'm looking forward to getting the markers back on the map and being able to click and then display information through an info window.
+
+
+**Link to work:**
+- [Bay Wheels Planner](https://github.com/iccir919/bay-wheels-planner)
+
 ### Day 6: Februrary 7, 2020
 
 **Today's Progress**: Removed google-react-maps and replaced with Google Maps JavaScript API, completed the basic layout and styling of my portfolio page
@@ -7,7 +17,6 @@
 **Thoughts:**  For my Bay Wheels Planner project, I have decided to go as back-to-the-basics as possible and not use libraries like google-react-maps or material-ui. Since I am publishing my Google Maps API key to Github and I am being charged for it's useage, I am protecting it and not allowing anyone but me to use it. In the article [API Key Best Bractices](https://developers.google.com/maps/api-key-best-practices), Google explains how to restrict my API key to only be valid with a certain ID address, a number assigned to every device connected to a network that uses the Internet protocol.
 
 I also redid my personal portfolio page. Within a few weeks time, I should finally complete the Responsive Web Design Projects of freeCodeCamp. I have completed these projects already before. However, I have really enjoyed restarting them. Fun fact, I have only one web development project, Pulse Watch, that I am proud enough to post on to my portfolio. The other two projects I listed in my porfolio are this challenge and freeCodeCamp. I know that by the end of each of them, I will have a lot more personal projects to showcase on my website.
-
 
 **Link to work:**
 - [Bay Wheels Planner](https://github.com/iccir919/bay-wheels-planner)
