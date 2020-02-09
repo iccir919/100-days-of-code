@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 6: Februrary 7, 2020
+
+**Today's Progress**: Removed google-react-maps and replaced with Google Maps JavaScript API, completed the basic layout and styling of my portfolio page
+
+**Thoughts:**  For my Bay Wheels Planner project, I have decided to go as back-to-the-basics as possible and not use libraries like google-react-maps or material-ui. Since I am publishing my Google Maps API key to Github and I am being charged for it's useage, I am protecting it and not allowing anyone but me to use it. In the article [API Key Best Bractices](https://developers.google.com/maps/api-key-best-practices), Google explains how to restrict my API key to only be valid with a certain ID address, a number assigned to every device connected to a network that uses the Internet protocol.
+
+I also redid my personal portfolio page. Within a few weeks time, I should finally complete the Responsive Web Design Projects of freeCodeCamp. I have completed these projects already before. However, I have really enjoyed restarting them. Fun fact, I have only one web development project, Pulse Watch, that I am proud enough to post on to my portfolio. The other two projects I listed in my porfolio are this challenge and freeCodeCamp. I know that by the end of each of them, I will have a lot more personal projects to showcase on my website.
+
+
+**Link to work:**
+- [Bay Wheels Planner](https://github.com/iccir919/bay-wheels-planner)
+- [Responisve Web Design Projects for freeCodeCamp](https://github.com/iccir919/fcc-responsive-web-design-projects)
+
 ### Day 5: Februrary 6, 2020
 
 **Today's Progress**: Completed a couple sections from the [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) course by Mozilla and added a Portfolio project to [Responisve Web Design Projects for freeCodeCamp](https://github.com/iccir919/fcc-responsive-web-design-projects)
@@ -40,8 +53,8 @@ To make up for lost time, I am trying harder than ever to make my current and fu
 
 
 **Link to work:**
-1. [Bay Wheels Planner](https://github.com/iccir919/bay-wheels-planner)
-2. [Pomodoro Clock](https://github.com/iccir919/pomodoro-clock)
+- [Bay Wheels Planner](https://github.com/iccir919/bay-wheels-planner)
+- [Pomodoro Clock](https://github.com/iccir919/pomodoro-clock)
 
 ### Day 2: Februrary 3, 2020
 
@@ -53,8 +66,8 @@ Finished reading the [Main Concepts of React](https://reactjs.org/docs/hello-wor
 Today I did something I have never done before, I wrote a test; well, converted it from freeCodeCamp to my project using [Jest](https://jestjs.io/) and [Enzyme](https://airbnb.io/enzyme/). But hey, whether my creation or not, I am proud of it. My hope is that I write my tests accurate enough to where I can just run the freeCodeCamp tests once I am complete and they will ALL pass on the first try.
 
 **Link to work:**
-1. [Bay Wheels Planner](https://github.com/iccir919/bay-wheels-planner)
-2. [Pomodoro Clock](https://github.com/iccir919/pomodoro-clock)
+- [Bay Wheels Planner](https://github.com/iccir919/bay-wheels-planner)
+- [Pomodoro Clock](https://github.com/iccir919/pomodoro-clock)
 
 ### Day 1: February 2, 2020
 
@@ -67,6 +80,6 @@ Since it has been a while (and the API has maybe changed since I last worked wit
 
 **Link to work:**
 
-1. [Bay Wheels Planner](https://github.com/iccir919/bay-wheels-planner)
-2. [Pomodoro Clock](https://github.com/iccir919/pomodoro-clock)
-3. [Notion](https://www.notion.so/)
+- [Bay Wheels Planner](https://github.com/iccir919/bay-wheels-planner)
+- [Pomodoro Clock](https://github.com/iccir919/pomodoro-clock)
+- [Notion](https://www.notion.so/)
