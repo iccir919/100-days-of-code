@@ -11,6 +11,7 @@ I completed reading through the Introduction of Daniel Shiffman's, The Nature of
 
 **Links to work:**
 
+- [Goals for this challenge](goals.md)
 - [Bay Wheels Planner](https://github.com/iccir919/bay-wheels-planner)
 - [Steepless](https://github.com/cheeaun/steepless)
 - [Nature of Code](https://natureofcode.com/)
