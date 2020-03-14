@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 2: March 12, 2019
+### Day 3: March 14, 2020
+
+**Today's Progress**: Completed the implementation of the Google Maps JavaScript API for the Bay Wheels Planner and the Introduction chapter of Nature of Code
+
+**Thoughts:**
+Getting the directions from the Google Maps JavaScript API was easy but the elevations part was difficult because it required implementing the Steepless code. All of the different routes elevations must be fetched before I can implement any of the analysis from Steepless. I am in the middle of retaking the Asynchronous Programming with JavaScript from Treehouse because of my rusty familiarity of the different methods.
+
+I completed reading through the Introduction of Daniel Shiffman's, The Nature of Code, and I learned about the different ways to implement randomness. I do not feel I thoroughly understand the material because I was not able to complete the exercises in the Introduction chapter. I made goals today for the different things I want to accomplish during this challenge. Even if I only complete some I will be happy since many of these things have been on my To-Do list for two or more years.
+
+**Links to work:**
+
+- [Bay Wheels Planner](https://github.com/iccir919/bay-wheels-planner)
+- [Steepless](https://github.com/cheeaun/steepless)
+- [Nature of Code](https://natureofcode.com/)
+- [Nature of Code Github](https://github.com/nature-of-code)
+
+### Day 2: March 13, 2020
 
 **Today's Progress**: Continued studying the code of Steepless and also started reading the Nature of Code
 
@@ -16,7 +32,7 @@ Reading Daniel Shiffman's 'The Nature of Code' is always something I have wanted
 - [Nature of Code](https://natureofcode.com/)
 - [Nature of Code Github](https://github.com/nature-of-code)
 
-### Day 1: March 12, 2019
+### Day 1: March 12, 2020
 
 **Today's Progress**: Continued studying the code of Steepless
 
@@ -28,7 +44,7 @@ When I have a very a little amount of lines of code to commit to Github, I feel 
 - [Bay Wheels Planner](https://github.com/iccir919/bay-wheels-planner)
 - [Steepless](https://github.com/cheeaun/steepless)
 
-### Day 0: March 11, 2019
+### Day 0: March 11, 2020
 
 **Today's Progress**: Started Life project, studied the code of Steepless
 
