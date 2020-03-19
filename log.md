@@ -1,5 +1,47 @@
 # 100 Days Of Code - Log
 
+### Day 6: March 18, 2020
+
+**Today's Progress**: Successfully implemented a collection of calls to the Google Maps Elevation Service API for the available routes found between two Bay Wheels Bike stations with JavaScript Promises
+
+**Thoughts:**
+To be honest, this is not the first time that I have attempted to create a Bay Wheels Planner application through using the old Steepless code. However, I do not remember, nor seem to care, about how I implemented capturing the elevation data of the available routes between two stations in the older version. It doesn't matter because I have since forgotten about how JavaScript promises operate.
+
+To reteach myself JavaScript promises, I used my two best current resources, Treehouse and the book Eloqent JavaScript. I appreciate Treehouse for providing amazing video tutorials and Eloquent JavaScript for describing the material in writing. My last shoutout would be to the Mozilla Documentation, however, I do not like straight documentation it is hard to read and learn about these concepts without any context/story.
+
+**Links to work:**
+
+- [MDN web docs for JavaScript Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [Treehouse Course for Asynchronous Programming with JavaScript](https://teamtreehouse.com/library/asynchronous-programming-with-javascript)
+- [Elqouent JavaScript for Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
+
+### Day 5: March 17, 2020
+
+**Today's Progress**: Worked on a paint splatter simulation that uses a normal distribution of random numbers to generate the dots positions and colors.
+
+**Thoughts:** I was very tempted to copy the exercise answers from another person's Github repository to satisfy the answers for my own exercise answers that were not supplied by Shiffman. Wait, I'm copying the answers from Shiffman's Processing exercise answers? Yes, but I feel I am doing Shiffman a service by converting his own Processing exercise answers to p5. When I am copying answers that aren't written by Shiffman, I feel I am doing a disservice to myself.
+
+I particularly love this exercise that simulates how a change of the normal distribution through the standard deviation because it demonstrates what the world is trying to accomplish by quarantining ourselves becuase of the CORVID-19 virus. We want to accomplish flattening the bell curve by, so that there is not such a spike in virus cases so that we do not overwhelm our current health care system. In terms of the paint splatter simulation, when the standard deviation is increased, the range of color and position on the HTML canvas inreases.
+
+**Links to work:**
+
+- [Nature of Code Introduction](https://natureofcode.com/book/introduction/)
+- [Normal Distribution Paint Splatter Simulation](https://iccir919.github.io/nature-of-code-exercises/introduction/Exercise_I_4_NormalDistributionPaintSplatter/)
+
+### Day 4: March 16, 2020
+
+**Today's Progress**: I found the official YouTube learning playlist for the Nature of Code. I supplemented my reading of the Introduction chapter with watching the videos and worked through the exercises.
+
+**Thoughts:** I skipped a day of this challenge because of some drinking alcohol, my 'ol nemesis in life. Instead of enjoying the small but continuous daily gains of learning, which benefit the overall plan of my professional development, I chose to instead joy the short-term pleasing but long-term destructive effects of escaping my currently mediocre life through ethanol.
+
+When I found that Daniel Shiffman is this year working to improve the YouTube chanenl for the Nature of Code, I found it to be pretty awesome that he has not let the Nature of Code to become something stale but instead something continually works to improve and expand the audience of. Translating his exercises from Processing to p5 is 'easy' but also is helpful to helping me to understand the library more and more.
+
+**Links to work:**
+
+- [Nature of Code YouTube Channel](<(https://youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM)>)
+- [Shiffman's The Nature of Code Processing Exercise Solutions](https://github.com/nature-of-code/noc-examples-processing)
+- [Neil's The Nature of Code p5 Exercise Solutions](https://github.com/iccir919/nature-of-code-exercises)
+
 ### Day 3: March 14, 2020
 
 **Today's Progress**: Completed the implementation of the Google Maps JavaScript API for the Bay Wheels Planner and the Introduction chapter of Nature of Code
