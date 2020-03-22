@@ -1,5 +1,49 @@
 # 100 Days Of Code - Log
 
+### Day 9: March 21, 2020
+
+**Today's Progress**: Converted the exercises/examples that are in the original Processing (Java) repository but missing in the p5.js (JavaScript) repository for the Introduction chapter of The Nature of Code by Daniel Shiffman and inserted them into my fork
+
+**Thoughts:** Today's work, translating snippets of code from one language to another could be considered by some tedious, but for me, the result was worth the pain. I loved finally seeing my lines of code come to life in the form of small animations. A sketch that is a graph of the noise distribution and actually one of the most simplest, is my favorite because it shows so elegantly how all the magic works, a clear look behind the scenes.
+
+**Links to work:**
+
+- [Neil's The Nature of Code p5 Exercise Solutions](https://github.com/iccir919/noc-examples-p5.js)
+- [Noise Distrubtion Graph](https://iccir919.github.io/noc-examples-p5.js/chp00_introduction/NoiseDistribution/)
+
+### Day 8: March 20, 2020
+
+**Today's Progress**: Completed the examples and exercises of the Introduction chapter of The Nature of Code by Daniel Shiffman. Also added the Chart component to the Bay Wheels Planner
+
+**Thoughts:** Today I posted a video to my Twitter of a sketch I made for an exercise in the Introduction chapter of The Nature of Code that brought color to the 3D Perlin Noise visualization which I forked from the example by Shiffman. I also added some background music (After Hours by The Weekend). The combination of the visual and sound was amazing to me, like a minature theactrical experience within the confines of my room at home.
+
+For the Bay Wheels Planner, I revised the logic for the elevation analysis and added the begginings of an elevation chart for each route. As it turns out, I did not perfectly understand the getElevations function from the Steepless application. As I worked on the Chart componenet, I realized I was not receiving the data I was expecting because the Bay Wheels Planner getElevations function did not fully operate the same as the one from Steepless. Troubleshooting was made difficult by the fact that the output of console.log(anObject) is misleading; the state of the object displayed is only resolved when you expand the > in the console. It is not the state of the object when you console.log'd the object.
+
+**Links to work:**
+
+- [Bay Wheels Planner](https://github.com/iccir919/bay-wheels-planner)
+- [Steepless](https://github.com/cheeaun/steepless)
+- [Nature of Code Introduction](https://natureofcode.com/book/introduction/)
+- [Neil's The Nature of Code p5 Exercise Solutions](https://github.com/iccir919/noc-examples-p5.js)
+
+### Day 7: March 19, 2020
+
+**Today's Progress**: For Bay Wheels Planner, I implemented analysis of elevation changes between two stations. Also, improved user experience by removing Submit button and making the search for routes automatic. For Nature of Code, completed more Introduction exercises/examples
+
+**Thoughts:** Every day, I get a little closer to having a most viable version of the Bay Wheels Planner. Today I got all the data to be returned and analyzed. Now, the next step is to display the data in an interactive visualization. It's funny how horrible I have been at estimating the completion of this project since I am months, maybe years, behind from when I guessed I might be done.
+
+The Submit button I had in the Bay Wheels Planner in the directions form as of yesterday was taking up a whole row and also added an extra click for the user to move to the next step. I came to the conclusion that if the user had clicked on other buttons that selected a begining and destination, then they should not have to click another to submit. So, I removed it, but that required me to come with some logic for the automatic detection that the stations had been selected. The answer was within the ComomponentDidUpdate function.
+
+In terms of the Nature of Code exercise and examples, I am not content with my recent contributions. The different (Gaussian or custom distribution) alogorithms for the random walker do not seem that unqiue from one another. I was looking for better solutions (which there aren't many of) and I came across one person who used lines instead of dots. I hope in the future to make this change and better be able to see the difference between these algorithms.
+
+**Links to work:**
+
+- [The Other Dell Blog](http://simon.theotherdell.com/)
+- [Bay Wheels Planner](https://github.com/iccir919/bay-wheels-planner)
+- [Steepless](https://github.com/cheeaun/steepless)
+- [Nature of Code Introduction](https://natureofcode.com/book/introduction/)
+- [Neil's The Nature of Code p5 Exercise Solutions](https://github.com/iccir919/noc-examples-p5.js)
+
 ### Day 6: March 18, 2020
 
 **Today's Progress**: Successfully implemented a collection of calls to the Google Maps Elevation Service API for the available routes found between two Bay Wheels Bike stations with JavaScript Promises
@@ -26,7 +70,7 @@ I particularly love this exercise that simulates how a change of the normal dist
 **Links to work:**
 
 - [Nature of Code Introduction](https://natureofcode.com/book/introduction/)
-- [Normal Distribution Paint Splatter Simulation](https://iccir919.github.io/nature-of-code-exercises/introduction/Exercise_I_4_NormalDistributionPaintSplatter/)
+- [Neil's The Nature of Code p5 Exercise Solutions](https://github.com/iccir919/noc-examples-p5.js)
 
 ### Day 4: March 16, 2020
 
@@ -40,7 +84,7 @@ When I found that Daniel Shiffman is this year working to improve the YouTube ch
 
 - [Nature of Code YouTube Channel](<(https://youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM)>)
 - [Shiffman's The Nature of Code Processing Exercise Solutions](https://github.com/nature-of-code/noc-examples-processing)
-- [Neil's The Nature of Code p5 Exercise Solutions](https://github.com/iccir919/nature-of-code-exercises)
+- [Neil's The Nature of Code p5 Exercise Solutions](https://github.com/iccir919/noc-examples-p5.js)
 
 ### Day 3: March 14, 2020
 
