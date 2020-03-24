@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 11: March 23, 2020
+
+**Today's Progress**: Day 11: Completed Chapter 2 , Program Structure, from the book Eloquent JavaScript (https://eloquentjavascript.net) by Marijn Haverbeke #100DaysOfCode
+
+**Thoughts:** My work today feels like not much. In fact, I feel very anxious. I have gone through these same chapters (like 1 through 6) of the same book (Eloquent JavaScript) many times for the past _four_ years now, and each time, I have given up on completing the entire book for whatever reason. I have this guilty pain in me that I should already be done with the book. I completed a chapter with ease today but it is because I have gone through it many times before. I feel like I should have completed more than just one chapter. But then, I breathe, and I remember that two weeks ago I completed no chapters. If I complete one chapter, or even just a part of one, I am still making some daily progress. I need to focus less on the finish line and just be sure that I am focusing on the now, completely understanding what material is currently in front of me.
+
+**Links to work:**
+
+- [Solutions to Chapter 2 of Eloquent JavaScript](<(https://github.com/iccir919/eloquent-javascript/tree/master/02_program_structure/exercises)>)
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+
+### Day 10: March 22, 2020
+
+**Today's Progress**: Turned my work from yesterday into a public Github pull request for the p5.js examples and exercises from the Introduction chapter of The Nature of Code repository
+
+**Thoughts:** I am ecstatic by the fact that Shiffman replied to my tweet and invited me to open up a pull request for the Nature of Code p5.js repository. I was debating with myself all yesterday wondering if I should keep contributing to a clone or a fork of The Nature of Code p5.js repository. I asked myself what is the point if Shiffman does not accept any pull requests? However, my fears have been swept away by this tweet from him. I now feel like I have a responsibility to contribute and I feel a sense of small purpose in this big great ocean that I am just a drop of.
+
+Opening up a public Github pull request was a lot more challenging than I expected it to be. A couple of days ago, I opened up a pull request for some typos I found in the Introduction chapter of The Nature of Code. Then I changed the name of the branch the pull request was attached to. Github made the renamed branch a new branch, so any additional changes I made in the renamed branch were not able to be added to the commit attached to the pull request. These are the learning pains I am experiencing with pull requests but it feels amazing to finally contribute to something, especially a repository that I love so dearly.
+
+**Links to work:**
+
+- [Tweet Responded To By Shiffman](https://twitter.com/realNeilVR/status/1241625415409520640)
+- [My Github Pull Request for Nature of Code p5.js Repository](<(https://github.com/nature-of-code/noc-examples-p5.js/pull/98)>)
+
 ### Day 9: March 21, 2020
 
 **Today's Progress**: Converted the exercises/examples that are in the original Processing (Java) repository but missing in the p5.js (JavaScript) repository for the Introduction chapter of The Nature of Code by Daniel Shiffman and inserted them into my fork
@@ -9,6 +33,7 @@
 **Links to work:**
 
 - [Neil's The Nature of Code p5 Exercise Solutions](https://github.com/iccir919/noc-examples-p5.js)
+- [Original Processing Repository](https://github.com/nature-of-code/noc-examples-processing)
 - [Noise Distrubtion Graph](https://iccir919.github.io/noc-examples-p5.js/chp00_introduction/NoiseDistribution/)
 
 ### Day 8: March 20, 2020
