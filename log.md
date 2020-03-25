@@ -1,14 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 12: March 24, 2020
+
+**Today's Progress**: Today I completed Chapters 3 and 4 of Eloquent JavaScript
+
+**Thoughts:** Once again, I am not satisfied with my progress. I desperately want to be finished with this book, Eloquent JavaScript. I wish to be able say that I finally have completed it! I'm looking at the Twitter statuses of others who are in the midst of this 100 Days of Code challenge and they are all working on actual projects and not trying to complete a book like me. Neil, remember this is only the beginning of the challenge. There is plenty of time for work on other projects but Eloquent JavaScript has been on your reading list for years! I look forward to the day when I can look at any random page and be able to understand perfectly the material of that part. When I do complete this book, it will not be the end of this book. I know that I will need to review it often, making sure that the material has settled into my brain. 
+
+**Links to work:**
+
+- [Solutions to Chapter 3 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/03_functions/exercises)
+- [Solutions to Chapter 4 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/04_data_structures/exercises)
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+
 ### Day 11: March 23, 2020
 
-**Today's Progress**: Day 11: Completed Chapter 2 , Program Structure, from the book Eloquent JavaScript (https://eloquentjavascript.net) by Marijn Haverbeke #100DaysOfCode
+**Today's Progress**: Completed Chapter 2 , Program Structure, from the book Eloquent JavaScript (https://eloquentjavascript.net) by Marijn Haverbeke 
 
 **Thoughts:** My work today feels like not much. In fact, I feel very anxious. I have gone through these same chapters (like 1 through 6) of the same book (Eloquent JavaScript) many times for the past _four_ years now, and each time, I have given up on completing the entire book for whatever reason. I have this guilty pain in me that I should already be done with the book. I completed a chapter with ease today but it is because I have gone through it many times before. I feel like I should have completed more than just one chapter. But then, I breathe, and I remember that two weeks ago I completed no chapters. If I complete one chapter, or even just a part of one, I am still making some daily progress. I need to focus less on the finish line and just be sure that I am focusing on the now, completely understanding what material is currently in front of me.
 
 **Links to work:**
 
-- [Solutions to Chapter 2 of Eloquent JavaScript](<(https://github.com/iccir919/eloquent-javascript/tree/master/02_program_structure/exercises)>)
+- [Solutions to Chapter 2 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/02_program_structure/exercises)
 - [Eloquent JavaScript](https://eloquentjavascript.net)
 
 ### Day 10: March 22, 2020
