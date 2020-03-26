@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 13: March 25, 2020
+
+**Today's Progress**: Today is my two week mark (since I started my count at 0 like a programmer😎). I completed Chapter 5 of Eloquent JavaScript
+
+**Thoughts:** This entry will be short. I completed another chapter today from Eloquent JavaScript today. I also was faced with the choice of whether or not to pay for Notion (the application I have been using to be taking notes for the book). I decided to not continue taking notes because I was just copying and pasting the material anyway. Why not just review the book, the source, when I need a refresher on the content? And as I mentioned yesterday, I should do this to keep the content fresh in my mind. These first five chapters have been easy for me, which proves I did gain some sort of knowledge over these past four, maybe five years, since I started the book. Wow, it has been four years since Hack Reactor, and look at me now. What have I really accomplished? Sometimes I really wish that I had just not went to Hack Reactor. It has cost me a lot of financial and emotional debt. Welp, I started this entry saying I would keep this short and here I am writing my head off. End it, Neil.
+
+**Links to work:**
+
+- [Solutions to Exercises from Chapter 5 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/05_higher_order_functions/exercises)
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+
 ### Day 12: March 24, 2020
 
 **Today's Progress**: Today I completed Chapters 3 and 4 of Eloquent JavaScript
@@ -8,8 +19,8 @@
 
 **Links to work:**
 
-- [Solutions to Chapter 3 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/03_functions/exercises)
-- [Solutions to Chapter 4 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/04_data_structures/exercises)
+- [Solutions to Exercises from Chapter 3 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/03_functions/exercises)
+- [Solutions to Exercises from Chapter 4 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/04_data_structures/exercises)
 - [Eloquent JavaScript](https://eloquentjavascript.net)
 
 ### Day 11: March 23, 2020
@@ -20,7 +31,7 @@
 
 **Links to work:**
 
-- [Solutions to Chapter 2 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/02_program_structure/exercises)
+- [Solutions to Exercises from Chapter 2 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/02_program_structure/exercises)
 - [Eloquent JavaScript](https://eloquentjavascript.net)
 
 ### Day 10: March 22, 2020
