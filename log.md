@@ -1,14 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 15: March 27, 2020
+
+**Today's Progress**: Completed Chapter 1 of The Nature of Code. The content of this chapter and Chapter 6 of Eloquent JavaScript (object oriented programming, vectors, and encapsulation) are in harmony with each other.
+
+**Thoughts:** I finally completed Chapter 1 of The Nature of Code. For Eloquent JavaScript, I have been completing chapters by the day, and for The Nature of Code, one chapter took me all week. However, I am not upset by my lack of progress because as I mentioned yesterday, the content of these latest chapters beautifully overlap each other. When there is this sort of synchronicity, I believe that "meaningful coincidences" show that I am on the right path. I am upset with myself because I did not commit any new code to Github today (actually writing this entry the day after). I almost had a full week where I made commits to Github every day. 
+
+**Links to work:**
+
+- [Solutions to Exercises from Chapter 6 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/06_the_secret_life_of_objects/exercises)
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+- [Nature of Code Introduction](https://natureofcode.com/book/introduction/)
+- [Synchronicity](https://en.wikipedia.org/wiki/Synchronicity)
+
 ### Day 14: March 26, 2020
 
-**Today's Progress**: Completed Chapter 6 of Eloquent JavaScript and progresed a little more of Chapter 1 of The Nature of Code
+**Today's Progress**:  Chapter 6 of Eloquent JavaScript and progresed a little more of Chapter 1 of The Nature of Code
 
 **Thoughts:** Today the world's of the two books I am reading, The Nature of Code and Eloquent JavaScript, have collided; both are discussing creating vectors (and also go into some of the math behind their mathematical operations like add, subtract, etc.), encapsulation, and creating classes. There is this strange feeling in me that I have written something similar in a previous attempt of this challenge. Today's entry is not very exciting and this is okay. I am finally starting to build a daily routine that includes coding. I walk with my dog at the same time and pass by the same people. Everyone else has had routines but I did not; or if I did, it wasn't a healthy one, which ultimately lead me into chaos. Since starting this challenge, I have lost a little bit of weight and my chess scores have increased. Interestingly, the last time I committed to Github every day of the week was also the time when I had the highest chess scores for puzzles and blitz games than ever before.
 
 **Links to work:**
 
-- [Solutions to Exercises from Chapter 5 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/06_the_secret_life_of_objects/exercises)
+- [Solutions to Exercises from Chapter 6 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/06_the_secret_life_of_objects/exercises)
 - [Eloquent JavaScript](https://eloquentjavascript.net)
 - [Nature of Code Introduction](https://natureofcode.com/book/introduction/)
 
