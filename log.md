@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 16: March 28, 2020
+
+**Today's Progress**: Read all of Chapter 7 of Eloquent JavaScript. Worked on my Ecosystem project from The Nature of Code.
+
+**Thoughts:** Today was not a very productive day. After hanging out with my little brother last night, I was very lethargic during all of today. I was inspired that Shiffman liked another tweet of mine. I worked on my Ecoystem project for The Nature of Code. I practiced creating classes, one general Creature class and a class for each type, and used inheritance to share methods from the master Creature calss among the diffent types. I read through Chapter 7 of Eloquent JavaScript, which focused on a project instead of a concept. Nevertheless, I still learned a lot, specifically about building an automaton, a little program that performs a task in a virtual world. Later today, I mistakenly opened up a pull request on the noc-examples-p5.js repository and I am annoyed because pull requests cannot be deleted from Github. 
+
+**Links to work:**
+
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+- [Nature of Code Introduction](https://natureofcode.com/book/introduction/)
+- [Ecosystem Project](https://iccir919.github.io/noc-examples-p5.js/chp01_vectors/Step_1_Ecoystem_Project/index.html)
+
 ### Day 15: March 27, 2020
 
 **Today's Progress**: Completed Chapter 1 of The Nature of Code. The content of this chapter and Chapter 6 of Eloquent JavaScript (object oriented programming, vectors, and encapsulation) are in harmony with each other.
