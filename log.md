@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 17: March 29, 2020
+
+**Today's Progress**: Completed exercises from Chapter 7 and in the midst of reading Chapter 8 of Eloquent JavaScript. Also watching the accompanying YouTube videos for Chapter 1 of The Nature of Code that Shiffman has recently uploaded. 
+
+**Thoughts:** I spent three hours on the second exercise, Robot Efficiency, from Chapter 7 of Eloquent JavaScript. I started out with the right idea to find the shoertest route but my execution was poor. There was an error within my code that made the robot travel back and forth between the same places, never going anywhere else. I never investigated why this error was happening but instead just kept restarting. Then I read the hint for this exercise and it confirmed that I was on the right track with my thinking but did not provide much more help. I did complete the exercise in my own way but it took three hours. I imagine that if I had investigated why I kept running into the same error then I would have completed the exercise earlier.
+
+It is important to review the content that I have covered with The Nature of Code and Eloquent JavaScript. From this point on, I believe that for every chapter I complete in Eloquent JavaScript, I should review a chapter from the past. For The Nature of Code, I am blessed to have YouTube videos to accompany the material. I really have enjoyed watching the YouTube videos for The Nature of Code for Chapter 1 because of Shiffman's enthusiasm for the material. Also, fact that Shiffman is releasing new videos when I am working on completing the book is an another example of synchronicity. I am almost one fifth of the way through this challenge. I don't feel that I have accomplished much unfortunately. 
+
+**Links to work:**
+
+- [Solutions to Exercises from Chapter 7 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/07_a_robot/exercises)
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+- [Nature of Code Introduction](https://natureofcode.com/book/introduction/)
+- [YouTube Playlist for The Nature of Code]((https://youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM))
+
+
 ### Day 16: March 28, 2020
 
 **Today's Progress**: Read all of Chapter 7 of Eloquent JavaScript. Worked on my Ecosystem project from The Nature of Code.
@@ -151,7 +167,7 @@ To reteach myself JavaScript promises, I used my two best current resources, Tre
 
 **Thoughts:** I was very tempted to copy the exercise answers from another person's Github repository to satisfy the answers for my own exercise answers that were not supplied by Shiffman. Wait, I'm copying the answers from Shiffman's Processing exercise answers? Yes, but I feel I am doing Shiffman a service by converting his own Processing exercise answers to p5. When I am copying answers that aren't written by Shiffman, I feel I am doing a disservice to myself.
 
-I particularly love this exercise that simulates how a change of the normal distribution through the standard deviation because it demonstrates what the world is trying to accomplish by quarantining ourselves becuase of the CORVID-19 virus. We want to accomplish flattening the bell curve by, so that there is not such a spike in virus cases so that we do not overwhelm our current health care system. In terms of the paint splatter simulation, when the standard deviation is increased, the range of color and position on the HTML canvas inreases.
+I particularly love this exercise that simulates how a change of the normal distribution through the standard deviation because it demonstrates what the world is trying to accomplish by quarantining ourselves becuase of the COVID-19 virus. We want to accomplish flattening the bell curve by, so that there is not such a spike in virus cases so that we do not overwhelm our current health care system. In terms of the paint splatter simulation, when the standard deviation is increased, the range of color and position on the HTML canvas inreases.
 
 **Links to work:**
 
