@@ -1,10 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 24: April 5, 2020
+
+**Today's Progress**: Updated my my personal website with links to my #100DaysOfCode Log and my 
+freeCodeCamp Profile. Also, continued to work through Chapter 11: Asynchronous Programming from the book Eloquent JavaScript.
+
+**Thoughts:** 
+
+**Links to work:**
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+- [My personal website](https://neilricci.github.io)
+
 ### Day 23: April 4, 2020
 
 **Today's Progress**: Completed the exercises from Chapter 10: Modules from the book Eloquent JavaScript 
 
-**Thoughts:** I had to use the hint for the last exercise from Chapter 10 of the book Eloquent JavaScript. Unfortunately, when I use the hints for an exercise question, I feel like I do not really understand the material of the chapter. The question covered circular dependencies, which is when one dependency requires another but that dependency that is being required also depends on the dependency requires it. Unlike other programming languages, JavaScript does allow circular dependencies because the require function is able to accomodate it without crashing since it stores a dependency in a cache before it actually loads the code. If a dependency is already in the cache, then the require function will not be load the same dependency over and over again. I feel this exercise question would make a great blog post topic since what I found online was not completely clear or helpful to me.
+**Thoughts:** I had to use the hint for the last exercise from Chapter 10 of the book Eloquent JavaScript. Unfortunately, when I use the hints for an exercise question, I feel like I do not really understand the material of the chapter. The question covered circular dependencies, which is a situation where module A depends on B, and B also, directly or indirectly, depends on A. Unlike other programming languages, JavaScript does allow circular dependencies because the require function is able to accomodate circular dependencies without crashing because require stores a dependency in its cache before it actually loads the code. If a dependency is called for multiple times, then the require function will not be load the same dependency over and over again if the dependency is already in the cache. I feel this exercise question would make a great blog post topic since what I found online was not completely clear or helpful to me.
 
 **Links to work:**
 - [Solutions to Exercises from Chapter 10 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/10_modules/exercises)
@@ -38,8 +49,8 @@
 
 **Links to work:**
 - [Eloquent JavaScript](https://eloquentjavascript.net)
-- [freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
-- [Code Signal Profile](https://app.codesignal.com/profile/iccir919)
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+- [My Code Signal Profile](https://app.codesignal.com/profile/iccir919)
 
 
 ### Day 19: March 31, 2020
