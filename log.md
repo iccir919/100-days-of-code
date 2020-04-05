@@ -1,10 +1,73 @@
 # 100 Days Of Code - Log
 
+### Day 23: April 4, 2020
+
+**Today's Progress**: Completed the exercises from Chapter 10: Modules from the book Eloquent JavaScript 
+
+**Thoughts:** I had to use the hint for the last exercise from Chapter 10 of the book Eloquent JavaScript. Unfortunately, when I use the hints for an exercise question, I feel like I do not really understand the material of the chapter. The question covered circular dependencies, which is when one dependency requires another but that dependency that is being required also depends on the dependency requires it. Unlike other programming languages, JavaScript does allow circular dependencies because the require function is able to accomodate it without crashing since it stores a dependency in a cache before it actually loads the code. If a dependency is already in the cache, then the require function will not be load the same dependency over and over again. I feel this exercise question would make a great blog post topic since what I found online was not completely clear or helpful to me.
+
+**Links to work:**
+- [Solutions to Exercises from Chapter 10 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/10_modules/exercises)
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+
+### Day 22: April 3, 2020
+
+**Today's Progress**: Reading through Chapter 10: Modules of Eloquent JavaScript
+
+**Thoughts:** Modules have always been this magical part of JavaScript for me. Like in one sense, they seem like a really simple thing since they are snippets of code that can be exported and then imported into other code. The complicated part is understanding what is going on behind the scenes. I appreciated how this chapter went over (a maybe simplified version of) the require function. I would like to make a blog post in the future describing this for others (and myself). On a seemingly unrelated note (but I promise it has a point), today at work I attended a workshop on growing my career. I realized something that I want to do is help improve our internal documentation. However, I do not have much exerperience with writing stuff like it, so I can start now with making a blog.
+
+**Links to work:**
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+
+### Day 21: April 2, 2020
+
+**Today's Progress**: Completed the exercises from Chapter 9: Regular Expressions from Eloquent JavaScript
+
+**Thoughts:** Another day with not a lot of progress. After work, I went on a run with my dog, which I have not done in a while. I have gained a lot of weight since last summer, like 40 pounds. I hope to lose at least 20 pounds by the end of this challenge. Oh wait, this journal is about my code progress! I completed the exercises from the chapter about regular expressions in the book Eloquent JavaScript. I used the hints provided by the author. I feel a little weak for having to use the hints but there was still a great sense of accomplishment when I completed the exercises. It is cool that these exercises have tests inlcuded in them, so I really knew when I had the correct answer. It took three days to complete one chapter. I read about the progress made by others and again comes the feeling that I have not accomplished enough. Try not to compare yourself to them, Neil; keep focused on your [goals](goals.md).
+
+
+**Links to work:**
+- [Solutions to Exercises from Chapter 9 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/08_bugs_and_errors/exercises)
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+
+### Day 20: April 1, 2020
+
+**Today's Progress**: Continuing my progress on Chapter 9: Regular Expressions from Eloquent JavaScript. Also, I reset my freeCodeCamp and Code Signal accounts. New beginnings!
+
+**Thoughts:** To be honest, I did not make much progress today. It is my parents anniversary, so the time that I usually work on coding stuff was taken by preparing them dinner. Then after dinner, we watched a movie. Throughout all of this, we were all drinking alcohol. Now, at the end of it all, I feel pretty tired and not really able to code. I'm resetting my Code Signal and freeCodeCamp accounts so that I can relearn what I went over months and months ago. Hopefully, if I did actually absorb the material, then it should be quick to get back where I was before the reset. Completing some of the freeCodeCamp sections is one of the goals of this challenge. 
+
+**Links to work:**
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+- [freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+- [Code Signal Profile](https://app.codesignal.com/profile/iccir919)
+
+
+### Day 19: March 31, 2020
+
+**Today's Progress**: Working though Chapter 9: Regular Expressions from the book Eloquent JavaScript.
+
+**Thoughts:** I kind of knew that the chapter of Eloquent JavaScript about regular expressions would take me longer than the previous chapters. In many ways, it feels like learning an entirely new language. I used to just ignore regular expressions because I never found myself needing to use them. However, they can be a key part of a task like data aggregation from other websites. JavaScript libraries like Puppeteer can help with navigating to and through web pages that have information, like rcdb.com for example, but to parse through the data regular expressions are needed to transform the information from HTML into useable JSON. Also, let's not forgot about the projects that Daniel Shiffman has created for text analysis using regular expressions. I started to work on one of these projects three years ago that rearranged the lyrics of Radiohead songs. 
+
+**Links to work:**
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+- [Programming from A to Z - Text Analysis](https://shiffman.net/a2z/text-analysis/)
+- [Kid A Rearrange](https://github.com/iccir919/kidARearrange)
+
+### Day 18: March 30, 2020
+
+**Today's Progress**: Completed all of the exercises from Chapter 8 of Eloquent JavaScript. Topics like TypeScript and testing frameworks are briefly mentioned but understandably not covered. 
+
+**Thoughts:** Chapter 8 of Eloquent JavaScript goes over handling bugs and errors. To be honest, none of the JavaScript code I have written previously handles errors. I always assume that everything will just work and this is wrong. TypeScript is a JavaScript dialect that I have been meaning to look into (as many job descriptions require knowledge of it) but I have not made the effort to learn it just yet. My assumption is that it makes JavaScript more like Java by requiring the programmer to declare the type (number, string, object, etc.) of a variable or output of a function. TypeScript will probably throw an error if the type is different than what is expected. Testing is also something that I have not done before for any of my projects (but is also a common recurring job description requirement). I have read often on Twitter that one thing programmers who have engineering jobs wish they knew more about before starting is testing. I want to level up on these topics, but right now, the goal is just to finally finish this book. 
+
+**Links to work:**
+- [Solutions to Exercises from Chapter 8 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/08_bugs_and_errors/exercises)
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+
 ### Day 17: March 29, 2020
 
 **Today's Progress**: Completed exercises from Chapter 7 and in the midst of reading Chapter 8 of Eloquent JavaScript. Also watching the accompanying YouTube videos for Chapter 1 of The Nature of Code that Shiffman has recently uploaded. 
 
-**Thoughts:** I spent three hours on the second exercise, Robot Efficiency, from Chapter 7 of Eloquent JavaScript. I started out with the right idea to find the shoertest route but my execution was poor. There was an error within my code that made the robot travel back and forth between the same places, never going anywhere else. I never investigated why this error was happening but instead just kept restarting. Then I read the hint for this exercise and it confirmed that I was on the right track with my thinking but did not provide much more help. I did complete the exercise in my own way but it took three hours. I imagine that if I had investigated why I kept running into the same error then I would have completed the exercise earlier.
+**Thoughts:** I spent three hours on the second exercise, Robot Efficiency, from Chapter 7 of Eloquent JavaScript. I started out with the right idea to find the shortest route but my execution was poor. There was an error within my code that made the robot travel back and forth between the same places, never going anywhere else. I never investigated why this error was happening but instead just kept restarting. Then I read the hint for this exercise and it confirmed that I was on the right track with my thinking but did not provide much more help. I did complete the exercise in my own way. I imagine that if I had investigated why I kept running into the same error then I would have completed the exercise earlier.
 
 It is important to review the content that I have covered with The Nature of Code and Eloquent JavaScript. From this point on, I believe that for every chapter I complete in Eloquent JavaScript, I should review a chapter from the past. For The Nature of Code, I am blessed to have YouTube videos to accompany the material. I really have enjoyed watching the YouTube videos for The Nature of Code for Chapter 1 because of Shiffman's enthusiasm for the material. Also, fact that Shiffman is releasing new videos when I am working on completing the book is an another example of synchronicity. I am almost one fifth of the way through this challenge. I don't feel that I have accomplished much unfortunately. 
 
