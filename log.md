@@ -2,14 +2,12 @@
 
 ### Day 24: April 5, 2020
 
-**Today's Progress**: Updated my my personal website with links to my #100DaysOfCode Log and my 
-freeCodeCamp Profile. Also, continued to work through Chapter 11: Asynchronous Programming from the book Eloquent JavaScript.
+**Today's Progress**: Updated my my personal website with links to my 100DaysOfCode Log and my freeCodeCamp Profile. Also, continued to work through Chapter 11: Asynchronous Programming from the book Eloquent JavaScript.
 
-**Thoughts:** 
+**Thoughts:** This chapter has been extremely tough for me. Asynchronous programming is confusing, at least during the beginning of learning it. I hate not moving on to the next chapter of this book today. I am a quarter through this challenge and only halfway through this book. How will I complete the six other goals of this challenge when just one has taken me this long? My hope is that by truly understanding these chapters, I will be able to move on to other other projects with more confidence and agility. Also, breathing helps me realize that before this challenge, I probably would have never finished this book. So, if I can accomplish only three of these things then that is further than I would have been without this challenge. There is always Round 2, Neil. It may seem like a failure but try to look at it like the better sequel to the original. 
 
 **Links to work:**
 - [Eloquent JavaScript](https://eloquentjavascript.net)
-- [My personal website](https://neilricci.github.io)
 
 ### Day 23: April 4, 2020
 
