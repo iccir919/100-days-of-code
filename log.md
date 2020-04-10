@@ -1,5 +1,50 @@
 # 100 Days Of Code - Log
 
+### Day 28: April 9, 2020
+
+**Today's Progress**: 🙌Completed🙌 the exercises of Chapter 11: Asynchronous Programming from the book Eloquent JavaScript. I took the hints but I didn't give up and look at the solutions
+
+**Thoughts:** Guess what? After all my struggle with completing just the first exercise challenge, do you know what my problem was with making any progress? I did not understand the exercise and it's directions. There was clear instruction to use one function from the chapter but I used another because I thought it was the correct function. I was wrong. Once I realized this fact, the answers started to come to my mind. Sure, I used the hints, but I think after spending four days on the same chapter that I earned the right to use them. For my tweet out today, I gave a shout out to my follower Masa from Japan who gave me a shout out a couple of days earlier. This type of motivation is what makes this whole challenge successful, the support of others, even if they are strangers. 
+
+**Links to work:**
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+- [Solutions to Exercises from Chapter 11 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/11_asynchronous_programming/exercises)
+
+### Day 27: April 8, 2020
+
+**Today's Progress**: Still working through the exercises of Chapter 11 from the book Eloquent JavaScript
+
+**Thoughts:** I am not going to lie, I did not spend a lot of time on learning programming today. I hit a low. My chess scores have been declining and that is an indicator of me giving up easily and not thinking any steps ahead. When I spend four days on the same chapter, there is something wrong with me. Fortuntely, despite my desire to skip, I attended my book club meeting for The Power of Now by Eckhart Tolle with my friend. Often I feel like no one is listening to me, like no one cares about my ambitions to be a web developer. Fortunately, by focusing my thoughts away from the past and the future, I was able to take a look around at my current state, and it was not all bad as I imagine. What does this have to do with programming? Well, my unhappiness with my lack of progress and current status annoys me. I shouldn't let such thoughts hold me back. 
+
+**Links to work:**
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+
+### Day 26: April 7, 2020
+
+**Today's Progress**: My progress through the exercises of Chapter 11: Asynchronous Programming from the book Eloquent JavaScript is slow. Reading through tweets by Syk Houdeib about how he found this book challenging has made me feel better bout my struggle. 
+
+**Thoughts:** I am still going over Chapter 11: Asynchronous Programming from the book Eloquent JavaScript. I feel horrible about not making any progress with it. To better understand if I was the only having trouble with this book, I looked for any tweets from others have made their way through the book. I found a tweet from last year by Syk Houdeib about how challenging the book was for him to get through. I have read an article many times on Medium by Syk about how to land your first job as a web developer. To know that he had trouble with the material of the book comforted me because I knew that he maybe knows more than me (at least for now). I mentioned him in my tweet for today. Syk liked it, responded, and followed me. This tweet with his mention has been my noticed tweet so far in this challenge. 
+
+**Links to work:**
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+
+### Day 25: April 6, 2020
+
+**Today's Progress**: Rereading Chapter 11 of Eloquent JavaScript. 
+
+**Thoughts:** Here I am, not making any progress, reading a chapter that connects the story of Internet connections to a fabricated computer network setup by crows to help me understand asynchronous functions. I hope I don't sound too salty but the way the author of this books is equating something complicated like the Internet to something simple makes me angry because I personally feel like an idiot. Fortunately, I went back to the Introduction from this book and found a quote that has resonated with me during these challenging. 
+
+```
+"When you're struggling to follow, don't jump to any conclusions about your own capabilities.
+
+Learning is hard work, but everything you learn is yours and will make subsequent learning easier."
+```
+
+There is no doubt that asynchronous programming is challenging. I remember when at Hack Reactor that it was a topic I never understood but like most things during that experience, I faked knowing it. Fortunately, I now have the time to go back over the material. There is no social pressure to make me move on even though all I want is to go back to better understand. Three years later, I soon will have to stop paying back my loan for that damn bootcamp. Let my rage and regret fire my future yearn to learn more about web development.
+
+**Links to work:**
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+
 ### Day 24: April 5, 2020
 
 **Today's Progress**: Updated my my personal website with links to my 100DaysOfCode Log and my freeCodeCamp Profile. Also, continued to work through Chapter 11: Asynchronous Programming from the book Eloquent JavaScript.
