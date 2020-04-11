@@ -1,10 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 29: April 10, 2020
+
+**Today's Progress**: Chapter 12 - Project: A Programming Language from the book Eloquent JavaScript, which describes building a language, Egg, on top of JavaScript. Read through it and currently working through its exercises. 
+
+**Thoughts:** The title of this chapter is very intimidating; Really, we are going to build a programming language!? Fortunately, the material was not as challenging as the previous chapter Asynchronous Programming. In fact, it was pretty insightful to how the JavaScript language works. I had not really thought about operators as being like functions until this chapter went over creating them for own programming language. Additionally, I enjoyed taking a closer look into how scope operates, especially in the context of the creation of a new functions. My dad wanted to watch a movie tonight (after we had already watched an hour long television show) and I turned down the offer in favor of working through this chapter. Overall, I am happy with this decision because I really wanted to get over this "Language" section (Chapter 1 - Chapter 12) of Eloquent JavaScript and into the "Browser" section. 
+
+**Links to work:**
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+- [Solutions to Exercises from Chapter 11 of Eloquent JavaScript]()
+
 ### Day 28: April 9, 2020
 
 **Today's Progress**: 🙌Completed🙌 the exercises of Chapter 11: Asynchronous Programming from the book Eloquent JavaScript. I took the hints but I didn't give up and look at the solutions
 
-**Thoughts:** Guess what? After all my struggle with completing just the first exercise challenge, do you know what my problem was with making any progress? I did not understand the exercise and it's directions. There was clear instruction to use one function from the chapter but I used another because I thought it was the correct function. I was wrong. Once I realized this fact, the answers started to come to my mind. Sure, I used the hints, but I think after spending four days on the same chapter that I earned the right to use them. For my tweet out today, I gave a shout out to my follower Masa from Japan who gave me a shout out a couple of days earlier. This type of motivation is what makes this whole challenge successful, the support of others, even if they are strangers. 
+**Thoughts:** Guess what? After all my struggle with completing just the first exercise challenge, do you know what my problem was with not making any progress? I did not understand the exercise and its directions. There was clear instruction to use one function from the chapter but I used another because I thought it was the correct function. I was wrong. Once I realized this fact, the answers started to come to my mind. Sure, I used the hints, but I think after spending four days on the same chapter that I earned the right to use them. For my tweet out today, I gave a shout out to my follower Masa from Japan who gave me a shout out a couple of days earlier. This type of motivation is what makes this whole challenge successful, the support of others, even if they are strangers. 
 
 **Links to work:**
 - [Eloquent JavaScript](https://eloquentjavascript.net)
@@ -14,7 +24,7 @@
 
 **Today's Progress**: Still working through the exercises of Chapter 11 from the book Eloquent JavaScript
 
-**Thoughts:** I am not going to lie, I did not spend a lot of time on learning programming today. I hit a low. My chess scores have been declining and that is an indicator of me giving up easily and not thinking any steps ahead. When I spend four days on the same chapter, there is something wrong with me. Fortuntely, despite my desire to skip, I attended my book club meeting for The Power of Now by Eckhart Tolle with my friend. Often I feel like no one is listening to me, like no one cares about my ambitions to be a web developer. Fortunately, by focusing my thoughts away from the past and the future, I was able to take a look around at my current state, and it was not all bad as I imagine. What does this have to do with programming? Well, my unhappiness with my lack of progress and current status annoys me. I shouldn't let such thoughts hold me back. 
+**Thoughts:** I am not going to lie, I did not spend a lot of time on learning programming today. I hit a low. My chess scores have been declining and that is an indicator of me giving up easily and not thinking any steps ahead. When I spend four days on the same chapter, there is something wrong with me. Fortunately, I attended my book club meeting for The Power of Now by Eckhart Tolle. I was reminded me to take an honest look around at my current state. I realized it was not all bad as my mind can make it all seem, whether it is my past regrets or anxious thoughts about the future. Often my lack of progress in this challenge annoys me, but I shouldn't let such thoughts get me so down. 
 
 **Links to work:**
 - [Eloquent JavaScript](https://eloquentjavascript.net)
@@ -23,7 +33,7 @@
 
 **Today's Progress**: My progress through the exercises of Chapter 11: Asynchronous Programming from the book Eloquent JavaScript is slow. Reading through tweets by Syk Houdeib about how he found this book challenging has made me feel better bout my struggle. 
 
-**Thoughts:** I am still going over Chapter 11: Asynchronous Programming from the book Eloquent JavaScript. I feel horrible about not making any progress with it. To better understand if I was the only having trouble with this book, I looked for any tweets from others have made their way through the book. I found a tweet from last year by Syk Houdeib about how challenging the book was for him to get through. I have read an article many times on Medium by Syk about how to land your first job as a web developer. To know that he had trouble with the material of the book comforted me because I knew that he maybe knows more than me (at least for now). I mentioned him in my tweet for today. Syk liked it, responded, and followed me. This tweet with his mention has been my noticed tweet so far in this challenge. 
+**Thoughts:** I am still going over Chapter 11: Asynchronous Programming from the book Eloquent JavaScript. I feel horrible about not making any progress with it. To better understand if I was the only having trouble with this book, I looked for any tweets from others have made their way through the book. I found a tweet from last year by Syk Houdeib about how challenging the book was for him to get through. I have read an article many times on Medium by Syk about how to land your first job as a web developer. To know that he had trouble with the material of the book comforted me because I knew that he maybe knows more than me (at least for now). I mentioned him in my tweet for today. Syk liked it, responded, and followed me.
 
 **Links to work:**
 - [Eloquent JavaScript](https://eloquentjavascript.net)
@@ -32,7 +42,7 @@
 
 **Today's Progress**: Rereading Chapter 11 of Eloquent JavaScript. 
 
-**Thoughts:** Here I am, not making any progress, reading a chapter that connects the story of Internet connections to a fabricated computer network setup by crows to help me understand asynchronous functions. I hope I don't sound too salty but the way the author of this books is equating something complicated like the Internet to something simple makes me angry because I personally feel like an idiot. Fortunately, I went back to the Introduction from this book and found a quote that has resonated with me during these challenging. 
+**Thoughts:** Here I am, reading a chapter that uses a metaphor about a computer network setup by crows to help me understand the Internet and how to use asynchronous functions. I hope I don't sound too salty but the way the author of this books is equating something complicated like the Internet to something simple makes me angry because I personally feel like an idiot for not understanding the material. Fortunately, I went back to the Introduction from this book and found a quote that has resonated with me during this difficult time: 
 
 ```
 "When you're struggling to follow, don't jump to any conclusions about your own capabilities.
@@ -40,7 +50,7 @@
 Learning is hard work, but everything you learn is yours and will make subsequent learning easier."
 ```
 
-There is no doubt that asynchronous programming is challenging. I remember when at Hack Reactor that it was a topic I never understood but like most things during that experience, I faked knowing it. Fortunately, I now have the time to go back over the material. There is no social pressure to make me move on even though all I want is to go back to better understand. Three years later, I soon will have to stop paying back my loan for that damn bootcamp. Let my rage and regret fire my future yearn to learn more about web development.
+There is no doubt that asynchronous programming is challenging for me. I remember when at Hack Reactor that it was a topic I never understood but like most things during that experience, I faked knowing it. Fortunately, I now have the time to go back over the material. There is no social pressure to make me move on, despite not understanding the material.  I soon will have to stop paying back my loan for that damn bootcamp. Let all of the rage and regret for attending that bootcamp be the energy that pushes me to learn more about web development.
 
 **Links to work:**
 - [Eloquent JavaScript](https://eloquentjavascript.net)
@@ -49,7 +59,7 @@ There is no doubt that asynchronous programming is challenging. I remember when 
 
 **Today's Progress**: Updated my my personal website with links to my 100DaysOfCode Log and my freeCodeCamp Profile. Also, continued to work through Chapter 11: Asynchronous Programming from the book Eloquent JavaScript.
 
-**Thoughts:** This chapter has been extremely tough for me. Asynchronous programming is confusing, at least during the beginning of learning it. I hate not moving on to the next chapter of this book today. I am a quarter through this challenge and only halfway through this book. How will I complete the six other goals of this challenge when just one has taken me this long? My hope is that by truly understanding these chapters, I will be able to move on to other other projects with more confidence and agility. Also, breathing helps me realize that before this challenge, I probably would have never finished this book. So, if I can accomplish only three of these things then that is further than I would have been without this challenge. There is always Round 2, Neil. It may seem like a failure but try to look at it like the better sequel to the original. 
+**Thoughts:** This chapter, Chapter 11: Asynchronous Programming, has been extremely tough for me. Asynchronous programming is confusing. I hate not moving on to the next chapter of this book today. I am a quarter through this challenge and only halfway through this book. How will I complete the six other tasks on my goal list when just one task has taken me this long? My hope is that by truly understanding the chapters of this book, I will be able to move through the other tasks on my goal with more confidence and agility. Breathing helps me realize with these anxious feelings. After I take a deep breathe, I realize that if I accomplish only three of tasks on my goal list during the #100DaysOfCode challenge, then that is further than I was before. There is always Round 2, Neil. Having to put some tasks off until a later time may be disappointing, but try to look at the next round of this challenge like the better sequel to the original. 
 
 **Links to work:**
 - [Eloquent JavaScript](https://eloquentjavascript.net)
@@ -58,7 +68,7 @@ There is no doubt that asynchronous programming is challenging. I remember when 
 
 **Today's Progress**: Completed the exercises from Chapter 10: Modules from the book Eloquent JavaScript 
 
-**Thoughts:** I had to use the hint for the last exercise from Chapter 10 of the book Eloquent JavaScript. Unfortunately, when I use the hints for an exercise question, I feel like I do not really understand the material of the chapter. The question covered circular dependencies, which is a situation where module A depends on B, and B also, directly or indirectly, depends on A. Unlike other programming languages, JavaScript does allow circular dependencies because the require function is able to accomodate circular dependencies without crashing because require stores a dependency in its cache before it actually loads the code. If a dependency is called for multiple times, then the require function will not be load the same dependency over and over again if the dependency is already in the cache. I feel this exercise question would make a great blog post topic since what I found online was not completely clear or helpful to me.
+**Thoughts:** I had to use the hint for the last exercise from Chapter 10: Modules of the book Eloquent JavaScript. When I use the hints for an exercise question, I feel like I do not really understand the material of the chapter. The exercise I had trouble with was about circular dependencies, which is a situation where module A depends on B, and B also, directly or indirectly, depends on A. Unlike other programming languages, JavaScript does allow circular dependencies because the require function is able to accomodate circular dependencies without crashing; this is possible since require stores a dependency in its cache before it actually loads the code. Requie will not load a dependency again if it is already within the cache. This way, if a dependency is called for multiple times, then the require function will not be load the same dependency over and over again. I feel this exercise question would make a great blog post topic since the material I found online about this topic was not completely clear or helpful to me.
 
 **Links to work:**
 - [Solutions to Exercises from Chapter 10 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/10_modules/exercises)
@@ -68,7 +78,7 @@ There is no doubt that asynchronous programming is challenging. I remember when 
 
 **Today's Progress**: Reading through Chapter 10: Modules of Eloquent JavaScript
 
-**Thoughts:** Modules have always been this magical part of JavaScript for me. Like in one sense, they seem like a really simple thing since they are snippets of code that can be exported and then imported into other code. The complicated part is understanding what is going on behind the scenes. I appreciated how this chapter went over (a maybe simplified version of) the require function. I would like to make a blog post in the future describing this for others (and myself). On a seemingly unrelated note (but I promise it has a point), today at work I attended a workshop on growing my career. I realized something that I want to do is help improve our internal documentation. However, I do not have much exerperience with writing stuff like it, so I can start now with making a blog.
+**Thoughts:** Modules have always been this magical part of JavaScript for me. Like in one sense, they seem like a really simple thing since they are just snippets of code that can be exported from one file and then imported into another. The complicated part is understanding what is going on behind the scenes. I appreciated how this chapter went over (a maybe simplified version of) the require function. I would like to make a blog post in the future how the require function operates for others (and myself). On a seemingly unrelated note (but I promise it has a point), today at work I attended a workshop on growing my career. I realized something that I want to do is help improve our internal documentation. However, I do not have much exerperience with writing stuff like it, so I can start with making a blog.
 
 **Links to work:**
 - [Eloquent JavaScript](https://eloquentjavascript.net)
@@ -77,7 +87,7 @@ There is no doubt that asynchronous programming is challenging. I remember when 
 
 **Today's Progress**: Completed the exercises from Chapter 9: Regular Expressions from Eloquent JavaScript
 
-**Thoughts:** Another day with not a lot of progress. After work, I went on a run with my dog, which I have not done in a while. I have gained a lot of weight since last summer, like 40 pounds. I hope to lose at least 20 pounds by the end of this challenge. Oh wait, this journal is about my code progress! I completed the exercises from the chapter about regular expressions in the book Eloquent JavaScript. I used the hints provided by the author. I feel a little weak for having to use the hints but there was still a great sense of accomplishment when I completed the exercises. It is cool that these exercises have tests inlcuded in them, so I really knew when I had the correct answer. It took three days to complete one chapter. I read about the progress made by others and again comes the feeling that I have not accomplished enough. Try not to compare yourself to them, Neil; keep focused on your [goals](goals.md).
+**Thoughts:** Another day with not a lot of progress. After work, I went on a run with my dog, which I have not done in a while. I have gained a lot of weight since last summer, like 40 pounds. I hope to lose at least 20 pounds by the end of this challenge. Oh wait, this journal is about my code progress! I have completed the exercises from the chapter about regular expressions in the book Eloquent JavaScript, but I used the hints for solving the exercises. I feel a little weak for having to use the hints but there was still a great sense of accomplishment when I completed the exercises. It is cool that these exercises have tests inlcuded with them, so I really knew when I had the correct answer. It took three days to complete this one chapter. The feeling that I have not accomplished enough crept back into my mind when I read through the tweets by others who are in the progress of completing this challenge. Try not to compare yourself to them, Neil; keep focused on your [goals](goals.md).
 
 
 **Links to work:**
@@ -88,7 +98,7 @@ There is no doubt that asynchronous programming is challenging. I remember when 
 
 **Today's Progress**: Continuing my progress on Chapter 9: Regular Expressions from Eloquent JavaScript. Also, I reset my freeCodeCamp and Code Signal accounts. New beginnings!
 
-**Thoughts:** To be honest, I did not make much progress today. It is my parents anniversary, so the time that I usually work on coding stuff was taken by preparing them dinner. Then after dinner, we watched a movie. Throughout all of this, we were all drinking alcohol. Now, at the end of it all, I feel pretty tired and not really able to code. I'm resetting my Code Signal and freeCodeCamp accounts so that I can relearn what I went over months and months ago. Hopefully, if I did actually absorb the material, then it should be quick to get back where I was before the reset. Completing some of the freeCodeCamp sections is one of the goals of this challenge. 
+**Thoughts:** To be honest, I did not make much progress today. It is my parents anniversary, so the time that I usually work on coding stuff was taken by preparing them dinner. Then after dinner, we watched a movie. Throughout all of this, we were all drinking alcohol. Now, at the night, I feel pretty tired and not really able to code. I'm resetting my Code Signal and freeCodeCamp accounts so that I can relearn what I went over months and months ago. Hopefully, if I did actually absorb the material, then it should be quick to get back where I was before the reset. Completing some of the freeCodeCamp sections is one of the goals of this challenge. 
 
 **Links to work:**
 - [Eloquent JavaScript](https://eloquentjavascript.net)
@@ -100,7 +110,7 @@ There is no doubt that asynchronous programming is challenging. I remember when 
 
 **Today's Progress**: Working though Chapter 9: Regular Expressions from the book Eloquent JavaScript.
 
-**Thoughts:** I kind of knew that the chapter of Eloquent JavaScript about regular expressions would take me longer than the previous chapters. In many ways, it feels like learning an entirely new language. I used to just ignore regular expressions because I never found myself needing to use them. However, they can be a key part of a task like data aggregation from other websites. JavaScript libraries like Puppeteer can help with navigating to and through web pages that have information, like rcdb.com for example, but to parse through the data regular expressions are needed to transform the information from HTML into useable JSON. Also, let's not forgot about the projects that Daniel Shiffman has created for text analysis using regular expressions. I started to work on one of these projects three years ago that rearranged the lyrics of Radiohead songs. 
+**Thoughts:** I kind of knew that the chapter of Eloquent JavaScript about regular expressions would take me longer than any of the previous chapters. In many ways, it feels like learning an entirely new language. I used to just ignore regular expressions because I never found myself needing to use them. However, they can be a key part of a parsing task, like data aggregation from other websites. JavaScript libraries like Puppeteer can help with navigating through websites that desired information, like [rcdb.com](https://rcdb.com/) for example, but regular expressions are needed to transform the information from HTML into useable JSON. Also, Daniel Shiffman has used regular expressions for text analysis projects. In fact, I started to work on one of these projects three years ago. It rearranged the lyrics of Radiohead songs. 
 
 **Links to work:**
 - [Eloquent JavaScript](https://eloquentjavascript.net)
@@ -111,7 +121,7 @@ There is no doubt that asynchronous programming is challenging. I remember when 
 
 **Today's Progress**: Completed all of the exercises from Chapter 8 of Eloquent JavaScript. Topics like TypeScript and testing frameworks are briefly mentioned but understandably not covered. 
 
-**Thoughts:** Chapter 8 of Eloquent JavaScript goes over handling bugs and errors. To be honest, none of the JavaScript code I have written previously handles errors. I always assume that everything will just work and this is wrong. TypeScript is a JavaScript dialect that I have been meaning to look into (as many job descriptions require knowledge of it) but I have not made the effort to learn it just yet. My assumption is that it makes JavaScript more like Java by requiring the programmer to declare the type (number, string, object, etc.) of a variable or output of a function. TypeScript will probably throw an error if the type is different than what is expected. Testing is also something that I have not done before for any of my projects (but is also a common recurring job description requirement). I have read often on Twitter that one thing programmers who have engineering jobs wish they knew more about before starting is testing. I want to level up on these topics, but right now, the goal is just to finally finish this book. 
+**Thoughts:** Chapter 8 of Eloquent JavaScript goes over handling bugs and errors. To be honest, none of the JavaScript code I have written handles errors. I always assume that everything will just work and this is wrong. TypeScript is a JavaScript dialect that I have been meaning to look into (as many job descriptions require knowledge of it) but I have not made the effort to learn it. My assumption for what it does is that it makes JavaScript more like Java by requiring the programmer to declare the type (number, string, object, etc.) of a variable or output of a function. TypeScript will probably throw an error if the type is different than what is expected. Testing is also something that I have not done before for any of my projects (but is also a common recurring job description requirement). I have read often on Twitter that one thing professional programmers wish they knew more about before starting their job is testing. I want to level up on these topics, but right now, the goal is just to finally finish this book. 
 
 **Links to work:**
 - [Solutions to Exercises from Chapter 8 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/08_bugs_and_errors/exercises)
@@ -121,9 +131,9 @@ There is no doubt that asynchronous programming is challenging. I remember when 
 
 **Today's Progress**: Completed exercises from Chapter 7 and in the midst of reading Chapter 8 of Eloquent JavaScript. Also watching the accompanying YouTube videos for Chapter 1 of The Nature of Code that Shiffman has recently uploaded. 
 
-**Thoughts:** I spent three hours on the second exercise, Robot Efficiency, from Chapter 7 of Eloquent JavaScript. I started out with the right idea to find the shortest route but my execution was poor. There was an error within my code that made the robot travel back and forth between the same places, never going anywhere else. I never investigated why this error was happening but instead just kept restarting. Then I read the hint for this exercise and it confirmed that I was on the right track with my thinking but did not provide much more help. I did complete the exercise in my own way. I imagine that if I had investigated why I kept running into the same error then I would have completed the exercise earlier.
+**Thoughts:** I spent three hours on the second exercise, Robot Efficiency, from Chapter 7 of Eloquent JavaScript. I started out with the right idea to find the shortest route but my execution was poor. There was an error within my code that made the robot travel back and forth between the same places, never going anywhere else. I never investigated why this error was happening but instead just kept restarting. Then I read the hint for this exercise and it confirmed that I was on the right track with my thinking but did not provide much anymore help. I did complete the exercise in my own way. I imagine that if I had investigated why I kept running into the same error then I would have completed the exercise earlier.
 
-It is important to review the content that I have covered with The Nature of Code and Eloquent JavaScript. From this point on, I believe that for every chapter I complete in Eloquent JavaScript, I should review a chapter from the past. For The Nature of Code, I am blessed to have YouTube videos to accompany the material. I really have enjoyed watching the YouTube videos for The Nature of Code for Chapter 1 because of Shiffman's enthusiasm for the material. Also, fact that Shiffman is releasing new videos when I am working on completing the book is an another example of synchronicity. I am almost one fifth of the way through this challenge. I don't feel that I have accomplished much unfortunately. 
+It is important to review the content that I have covered with The Nature of Code and Eloquent JavaScript. From this point on, I believe that for every chapter I complete in Eloquent JavaScript, I should review a chapter from the past. For The Nature of Code, I am blessed to have YouTube videos to accompany the material. I really have enjoyed watching the YouTube videos for The Nature of Code for Chapter 1 because of Shiffman's enthusiasm for the book's material. Also, fact that Shiffman is releasing new videos when I am working on completing the book is an another example of synchronicity. I am almost one fifth of the way through this challenge. I don't feel that I have accomplished much unfortunately. 
 
 **Links to work:**
 
@@ -137,7 +147,7 @@ It is important to review the content that I have covered with The Nature of Cod
 
 **Today's Progress**: Read all of Chapter 7 of Eloquent JavaScript. Worked on my Ecosystem project from The Nature of Code.
 
-**Thoughts:** Today was not a very productive day. After hanging out with my little brother last night, I was very lethargic during all of today. I was inspired that Shiffman liked another tweet of mine. I worked on my Ecoystem project for The Nature of Code. I practiced creating classes, one general Creature class and a class for each type, and used inheritance to share methods from the master Creature calss among the diffent types. I read through Chapter 7 of Eloquent JavaScript, which focused on a project instead of a concept. Nevertheless, I still learned a lot, specifically about building an automaton, a little program that performs a task in a virtual world. Later today, I mistakenly opened up a pull request on the noc-examples-p5.js repository and I am annoyed because pull requests cannot be deleted from Github. 
+**Thoughts:** Today was not a very productive day. After hanging out with my little brother last night, I was very lethargic during all of today. I was inspired that Shiffman liked another tweet of mine. I worked on my Ecoystem project for The Nature of Code. I practiced creating classes, one general Creature class and a class for different creature type. I used inheritance to share methods from the master Creature among all of the diffent creature types. I read through Chapter 7 of Eloquent JavaScript, which focused on a project instead of a concept. I learned a lot, specifically about building an automation, a little program that performs a task in a virtual world. Later today, I mistakenly opened up a pull request on the noc-examples-p5.js repository and I am annoyed because pull requests cannot be deleted from Github. 
 
 **Links to work:**
 
@@ -149,7 +159,7 @@ It is important to review the content that I have covered with The Nature of Cod
 
 **Today's Progress**: Completed Chapter 1 of The Nature of Code. The content of this chapter and Chapter 6 of Eloquent JavaScript (object oriented programming, vectors, and encapsulation) are in harmony with each other.
 
-**Thoughts:** I finally completed Chapter 1 of The Nature of Code. For Eloquent JavaScript, I have been completing chapters by the day, and for The Nature of Code, one chapter took me all week. However, I am not upset by my lack of progress because as I mentioned yesterday, the content of these latest chapters beautifully overlap each other. When there is this sort of synchronicity, I believe that "meaningful coincidences" show that I am on the right path. I am upset with myself because I did not commit any new code to Github today (actually writing this entry the day after). I almost had a full week where I made commits to Github every day. 
+**Thoughts:** I finally completed Chapter 1 of The Nature of Code. For Eloquent JavaScript, I have been completing a chapter day. For The Nature of Code, one chapter has taken me a whole week. However, I am not upset by my lack of progress because as I mentioned yesterday, the content of these latest chapters beautifully overlapped each other and when there is this sort of synchronicity, or "meaningful coincidences" show that I am on the right path. I am upset with myself because I did not commit any new code to Github today (actually writing this entry the day after). I almost had a full week where I made commits to Github every day. 
 
 **Links to work:**
 
@@ -162,7 +172,7 @@ It is important to review the content that I have covered with The Nature of Cod
 
 **Today's Progress**:  Chapter 6 of Eloquent JavaScript and progresed a little more of Chapter 1 of The Nature of Code
 
-**Thoughts:** Today the world's of the two books I am reading, The Nature of Code and Eloquent JavaScript, have collided; both are discussing creating vectors (and also go into some of the math behind their mathematical operations like add, subtract, etc.), encapsulation, and creating classes. There is this strange feeling in me that I have written something similar in a previous attempt of this challenge. Today's entry is not very exciting and this is okay. I am finally starting to build a daily routine that includes coding. I walk with my dog at the same time and pass by the same people. Everyone else has had routines but I did not; or if I did, it wasn't a healthy one, which ultimately lead me into chaos. Since starting this challenge, I have lost a little bit of weight and my chess scores have increased. Interestingly, the last time I committed to Github every day of the week was also the time when I had the highest chess scores for puzzles and blitz games than ever before.
+**Thoughts:** Today the worlds of the two books I am reading, The Nature of Code and Eloquent JavaScript, have collided; both are discussing creating vectors, encapsulation, and creating classes. There is this strange feeling in me that I have written something similar in a previous attempt of this challenge. Today's entry is not very exciting and this is okay. I am finally starting to build a daily routine that includes coding. I am realizing that a lot of people have daily routines. I walk with my dog at the same time and pass by the same people. I feel like I have not had a daily routine; or if I did, it wasn't a healthy one, which ultimately lead me into chaos. Since starting this challenge, I have lost a little bit of weight and my chess scores have increased. Interestingly, the last time I committed to Github every day of the week was also the time when I had the highest chess scores for puzzles and blitz games than ever before.
 
 **Links to work:**
 
@@ -186,7 +196,7 @@ It is important to review the content that I have covered with The Nature of Cod
 
 **Today's Progress**: Today I completed Chapters 3 and 4 of Eloquent JavaScript
 
-**Thoughts:** Once again, I am not satisfied with my progress. I desperately want to be finished with this book, Eloquent JavaScript. I wish to be able say that I finally have completed it! I'm looking at the Twitter statuses of others who are in the midst of this 100 Days of Code challenge and they are all working on actual projects and not trying to complete a book like me. Neil, remember this is only the beginning of the challenge. There is plenty of time for work on other projects but Eloquent JavaScript has been on your reading list for years! I look forward to the day when I can look at any random page and be able to understand perfectly the material of that part. When I do complete this book, it will not be the end of this book. I know that I will need to review it often, making sure that the material has settled into my brain. 
+**Thoughts:** Once again, I am not satisfied with my progress. I desperately want to be finished with this book, Eloquent JavaScript. I wish to be able say that I finally have completed it! I'm looking at the Twitter statuses of others who are in the midst of this 100 Days of Code challenge and they are all working on actual projects and not trying to complete a book like me. "Neil, remember this is only the beginning of the challenge. There is plenty of time for work on other projects but Eloquent JavaScript has been on your reading list for years!" When I do complete this book, it will not be the end of this book. I know that I will need to review it often, making sure that the material has settled into my brain. 
 
 **Links to work:**
 
@@ -198,7 +208,7 @@ It is important to review the content that I have covered with The Nature of Cod
 
 **Today's Progress**: Completed Chapter 2 , Program Structure, from the book Eloquent JavaScript (https://eloquentjavascript.net) by Marijn Haverbeke 
 
-**Thoughts:** My work today feels like not much. In fact, I feel very anxious. I have gone through these same chapters (like 1 through 6) of the same book (Eloquent JavaScript) many times for the past _four_ years now, and each time, I have given up on completing the entire book for whatever reason. I have this guilty pain in me that I should already be done with the book. I completed a chapter with ease today but it is because I have gone through it many times before. I feel like I should have completed more than just one chapter. But then, I breathe, and I remember that two weeks ago I completed no chapters. If I complete one chapter, or even just a part of one, I am still making some daily progress. I need to focus less on the finish line and just be sure that I am focusing on the now, completely understanding what material is currently in front of me.
+**Thoughts:** My work today feels like not much. In fact, I feel very anxious. I have gone through these same chapters (like 1 through 6) of the same book (Eloquent JavaScript) many times in the past _four_ years now, and each time, I have given up on completing the entire book for whatever reason. I have this guilty pain in me that I should already be done with the book. I completed a chapter with ease today but it is because I have gone through it many times before. I feel like I should have completed more than just one chapter today. But then, I breathe, and I remember that two weeks ago I completed no chapters at all. If I complete one chapter, or even just a part of one, I am still making some daily progress. I need to focus less on the finish line and just be sure that I am focusing on the now, completely understanding what material is currently in front of me.
 
 **Links to work:**
 
@@ -209,9 +219,9 @@ It is important to review the content that I have covered with The Nature of Cod
 
 **Today's Progress**: Turned my work from yesterday into a public Github pull request for the p5.js examples and exercises from the Introduction chapter of The Nature of Code repository
 
-**Thoughts:** I am ecstatic by the fact that Shiffman replied to my tweet and invited me to open up a pull request for the Nature of Code p5.js repository. I was debating with myself all yesterday wondering if I should keep contributing to a clone or a fork of The Nature of Code p5.js repository. I asked myself what is the point if Shiffman does not accept any pull requests? However, my fears have been swept away by this tweet from him. I now feel like I have a responsibility to contribute and I feel a sense of small purpose in this big great ocean that I am just a drop of.
+**Thoughts:** I am ecstatic by the fact that Shiffman replied to my tweet and invited me to open up a pull request for the Nature of Code p5.js repository. I was debating with myself all yesterday wondering if I should keep contributing to a clone or a fork of The Nature of Code p5.js repository. I asked myself what is the point if Shiffman does not accept any pull requests? However, my fears have been swept away by this tweet from him. I now feel like I have a responsibility to contribute and also a sense of small purpose in this big great ocean that I am just a drop of.
 
-Opening up a public Github pull request was a lot more challenging than I expected it to be. A couple of days ago, I opened up a pull request for some typos I found in the Introduction chapter of The Nature of Code. Then I changed the name of the branch the pull request was attached to. Github made the renamed branch a new branch, so any additional changes I made in the renamed branch were not able to be added to the commit attached to the pull request. These are the learning pains I am experiencing with pull requests but it feels amazing to finally contribute to something, especially a repository that I love so dearly.
+Opening up a public Github pull request was a lot more challenging than I expected it to be. A couple of days ago, I opened up a pull request for some typos I found in the Introduction chapter of The Nature of Code. Then I changed the name of the branch the pull request was attached to. Github made the renamed branch a new branch, so any additional changes I made in the renamed branch were not able to be added to the branch attached to the pull request. These are the learning pains I am experiencing with pull requests but it feels amazing to finally contribute to something, especially a repository that I love so dearly.
 
 **Links to work:**
 
@@ -222,7 +232,7 @@ Opening up a public Github pull request was a lot more challenging than I expect
 
 **Today's Progress**: Converted the exercises/examples that are in the original Processing (Java) repository but missing in the p5.js (JavaScript) repository for the Introduction chapter of The Nature of Code by Daniel Shiffman and inserted them into my fork
 
-**Thoughts:** Today's work, translating snippets of code from one language to another could be considered by some tedious, but for me, the result was worth the pain. I loved finally seeing my lines of code come to life in the form of small animations. A sketch that is a graph of the noise distribution and actually one of the most simplest, is my favorite because it shows so elegantly how all the magic works, a clear look behind the scenes.
+**Thoughts:** Today's work, translating snippets of code from one language to another (Processing to p5.js) could be considered by some tedious, but for me, the result was worth the pain. I loved finally seeing my lines of code come to life in the form of small animations. A graph that visualizes noise distribution was one of the most simplest sketches I translated, but also is my favorite.
 
 **Links to work:**
 
@@ -234,9 +244,9 @@ Opening up a public Github pull request was a lot more challenging than I expect
 
 **Today's Progress**: Completed the examples and exercises of the Introduction chapter of The Nature of Code by Daniel Shiffman. Also added the Chart component to the Bay Wheels Planner
 
-**Thoughts:** Today I posted a video to my Twitter of a sketch I made for an exercise in the Introduction chapter of The Nature of Code that brought color to the 3D Perlin Noise visualization which I forked from the example by Shiffman. I also added some background music (After Hours by The Weekend). The combination of the visual and sound was amazing to me, like a minature theactrical experience within the confines of my room at home.
+**Thoughts:** Today I posted a video to my Twitter of a sketch I made for an exercise in the Introduction chapter of The Nature of Code that brought color to the 3D Perlin Noise visualization. I also added some background music (After Hours by The Weekend). The combination of the visual and sound was amazing to me; a minature theactrical experience.
 
-For the Bay Wheels Planner, I revised the logic for the elevation analysis and added the begginings of an elevation chart for each route. As it turns out, I did not perfectly understand the getElevations function from the Steepless application. As I worked on the Chart componenet, I realized I was not receiving the data I was expecting because the Bay Wheels Planner getElevations function did not fully operate the same as the one from Steepless. Troubleshooting was made difficult by the fact that the output of console.log(anObject) is misleading; the state of the object displayed is only resolved when you expand the > in the console. It is not the state of the object when you console.log'd the object.
+For the Bay Wheels Planner, I revised the logic for the elevation analysis and added the begginings of an elevation chart for each route. As it turns out, I did not perfectly understand the getElevations function from the Steepless application. As I worked on the Chart component, I realized the data the Chart component was receiving was not the same as what was needed to successfully function. Troubleshooting this was made difficult by the fact that the output of console.log(anObject) is misleading; The Chart component was behaving like it did not have any data but my console was showing that the data was there. I painfully learned that what is displayed in the console is not the state of the object when you console.log'd the object. 
 
 **Links to work:**
 
@@ -249,11 +259,11 @@ For the Bay Wheels Planner, I revised the logic for the elevation analysis and a
 
 **Today's Progress**: For Bay Wheels Planner, I implemented analysis of elevation changes between two stations. Also, improved user experience by removing Submit button and making the search for routes automatic. For Nature of Code, completed more Introduction exercises/examples
 
-**Thoughts:** Every day, I get a little closer to having a most viable version of the Bay Wheels Planner. Today I got all the data to be returned and analyzed. Now, the next step is to display the data in an interactive visualization. It's funny how horrible I have been at estimating the completion of this project since I am months, maybe years, behind from when I guessed I might be done.
+**Thoughts:** Every day, I get a little closer to having a most viable version of the Bay Wheels Planner. Today's milestone is obtaining all of the necessary data and properly analyzing it. Now, the next step is to display the data in an interactive visualization. It's funny how horrible I have been at estimating the completion of this project since I am months, maybe years, behind from when I originally guessed I might be done.
 
-The Submit button I had in the Bay Wheels Planner in the directions form as of yesterday was taking up a whole row and also added an extra click for the user to move to the next step. I came to the conclusion that if the user had clicked on other buttons that selected a begining and destination, then they should not have to click another to submit. So, I removed it, but that required me to come with some logic for the automatic detection that the stations had been selected. The answer was within the ComomponentDidUpdate function.
+I used to have a Submit button in the Bay Wheels Planner that took up a whole row and also added an extra click for the user to move to the next step. I came to the conclusion that if the user has already selected origin and destination stations, then they should not have to click another time to submit. So, I removed the Submit button, but that required me to come with some logic for the automatic detection that both of the stations had been selected. The answer was within the ComomponentDidUpdate function.
 
-In terms of the Nature of Code exercise and examples, I am not content with my recent contributions. The different (Gaussian or custom distribution) alogorithms for the random walker do not seem that unqiue from one another. I was looking for better solutions (which there aren't many of) and I came across one person who used lines instead of dots. I hope in the future to make this change and better be able to see the difference between these algorithms.
+In terms of the Nature of Code exercise and examples, I am not content with my recent contributions. Some of the alogorithms for the random walker, like Gaussian and a custom distribution, do not seem that unqiue from one another. I want to improve the way the movement of the random walker. I found a solution through one person's code that displayed lines between two vector points (start and end), instead of just making dots for each of the two vector points. 
 
 **Links to work:**
 
@@ -268,9 +278,9 @@ In terms of the Nature of Code exercise and examples, I am not content with my r
 **Today's Progress**: Successfully implemented a collection of calls to the Google Maps Elevation Service API for the available routes found between two Bay Wheels Bike stations with JavaScript Promises
 
 **Thoughts:**
-To be honest, this is not the first time that I have attempted to create a Bay Wheels Planner application through using the old Steepless code. However, I do not remember, nor seem to care, about how I implemented capturing the elevation data of the available routes between two stations in the older version. It doesn't matter because I have since forgotten about how JavaScript promises operate.
+To be honest, this is not the first time that I have attempted to create a Bay Wheels Planner application through using the old Steepless code. However, in my previous versions, I did not care how I obtained the elevation data of the available routes between two stations. 
 
-To reteach myself JavaScript promises, I used my two best current resources, Treehouse and the book Eloqent JavaScript. I appreciate Treehouse for providing amazing video tutorials and Eloquent JavaScript for describing the material in writing. My last shoutout would be to the Mozilla Documentation, however, I do not like straight documentation it is hard to read and learn about these concepts without any context/story.
+I needed to reteach myself JavaScript promises, and to do so, I used my two best current resources, Treehouse and the book Eloqent JavaScript. I appreciate Treehouse for providing amazing video tutorials and Eloquent JavaScript for describing the material in writing. My last shoutout would be to the Mozilla Documentation, however, I do not like straight documentation because it is hard for me to learn about concepts without any context/story.
 
 **Links to work:**
 
@@ -282,9 +292,9 @@ To reteach myself JavaScript promises, I used my two best current resources, Tre
 
 **Today's Progress**: Worked on a paint splatter simulation that uses a normal distribution of random numbers to generate the dots positions and colors.
 
-**Thoughts:** I was very tempted to copy the exercise answers from another person's Github repository to satisfy the answers for my own exercise answers that were not supplied by Shiffman. Wait, I'm copying the answers from Shiffman's Processing exercise answers? Yes, but I feel I am doing Shiffman a service by converting his own Processing exercise answers to p5. When I am copying answers that aren't written by Shiffman, I feel I am doing a disservice to myself.
+**Thoughts:** I was very tempted to copy the answers for the exercises for the Introduction chapter of The Nature of Code from another person's Github repository. I am copying the exercise answers from Shiffman's repository. Well, only sort of since I am converting them from Processing into p5.js. 
 
-I particularly love this exercise that simulates how a change of the normal distribution through the standard deviation because it demonstrates what the world is trying to accomplish by quarantining ourselves becuase of the COVID-19 virus. We want to accomplish flattening the bell curve by, so that there is not such a spike in virus cases so that we do not overwhelm our current health care system. In terms of the paint splatter simulation, when the standard deviation is increased, the range of color and position on the HTML canvas inreases.
+I particularly love an exercise from the Introduction chapter of The Nature of Code that demonstrates how a normal distribution can be affected by a change in the standard deviation. I feel like I better understand what the world is trying to accomplish by quarantining due to the COVID-19 virus. We want to accomplish flattening the bell curve. If there is not such a spike in virus cases, then we do not overwhelm our current health care system.
 
 **Links to work:**
 
@@ -295,9 +305,9 @@ I particularly love this exercise that simulates how a change of the normal dist
 
 **Today's Progress**: I found the official YouTube learning playlist for the Nature of Code. I supplemented my reading of the Introduction chapter with watching the videos and worked through the exercises.
 
-**Thoughts:** I skipped a day of this challenge because of some drinking alcohol, my 'ol nemesis in life. Instead of enjoying the small but continuous daily gains of learning, which benefit the overall plan of my professional development, I chose to instead joy the short-term pleasing but long-term destructive effects of escaping my currently mediocre life through ethanol.
+**Thoughts:** I skipped a day of this challenge because I drank too much alcohol, my 'ol nemesis in life, on the night of March 14, 2020. Instead of enjoying the small but continuous daily gains of learning, which benefit the overall plan of my professional development, I chose to instead joy the short-term pleasing but long-term destructive effects of ethanol. I need to stop escaping my currently mediocre life through it.
 
-When I found that Daniel Shiffman is this year working to improve the YouTube chanenl for the Nature of Code, I found it to be pretty awesome that he has not let the Nature of Code to become something stale but instead something continually works to improve and expand the audience of. Translating his exercises from Processing to p5 is 'easy' but also is helpful to helping me to understand the library more and more.
+When I found that Daniel Shiffman is this year working to revamp the YouTube content for the Nature of Code, I found it to be a sign that I am working through the content at the perfect time. It's awesome that he has not let the Nature of Code to become something stale; Instead he continually works to improve it. Translating his exercises from Processing to p5 is 'easy' but also is helpful to helping me to understand the p5.js library more and more.
 
 **Links to work:**
 
@@ -310,9 +320,9 @@ When I found that Daniel Shiffman is this year working to improve the YouTube ch
 **Today's Progress**: Completed the implementation of the Google Maps JavaScript API for the Bay Wheels Planner and the Introduction chapter of Nature of Code
 
 **Thoughts:**
-Getting the directions from the Google Maps JavaScript API was easy but the elevations part was difficult because it required implementing the Steepless code. All of the different routes elevations must be fetched before I can implement any of the analysis from Steepless. I am in the middle of retaking the Asynchronous Programming with JavaScript from Treehouse because of my rusty familiarity of the different methods.
+Getting the directions from the Google Maps JavaScript API was easy but the elevations part was difficult because it required making an Google Maps API call, analyzing and transforming the results, then making another Google Maps API call. I am in the middle of retaking the Asynchronous Programming with JavaScript course from Treehouse because of my rusty familiarity of the different methods.
 
-I completed reading through the Introduction of Daniel Shiffman's, The Nature of Code, and I learned about the different ways to implement randomness. I do not feel I thoroughly understand the material because I was not able to complete the exercises in the Introduction chapter. I made goals today for the different things I want to accomplish during this challenge. Even if I only complete some I will be happy since many of these things have been on my To-Do list for two or more years.
+I completed reading through the Introduction of Daniel Shiffman's, The Nature of Code, and I learned about the different ways to implement randomness. I do not feel I thoroughly understand the material because I was not able to complete the exercises in the Introduction chapter. Today I made goals for the different things I want to accomplish during this challenge. Even if I only complete some of the tasks on my goal list I will be happy since many of these things have been on my To-Do list for two or more years.
 
 **Links to work:**
 
@@ -329,7 +339,7 @@ I completed reading through the Introduction of Daniel Shiffman's, The Nature of
 **Thoughts:**
 Today I deleted the code from my Bay Wheels Planner application just thrown in from the Steepless project without any understanding to what it did. Let's be real, the Steepless application is already better in a lot of ways (timing of release, the larger scope of audience, etc.), but my purpose for making Bay Wheels Planner is to use it as a project to learn from and honestly enjoy. The official Bay Wheels app does not have such a feature yet, or really any planning feature, so I am happy to learn and make something useful (even if only for myself).
 
-Reading Daniel Shiffman's 'The Nature of Code' is always something I have wanted to do and it will be done by the end of this challenge. Sure the technology is nothing that will get me a job (p5 is not a very desired technology skill), but as my Tweet said for today, 'Nice thing bout havin a cool job (and not job searchin) is that I can work on the stuff I love ❤️ without worry if I'm 'doing the right thing.'
+Reading Daniel Shiffman's 'The Nature of Code' is always something I have wanted to do and it will be done by the end of this challenge. Sure the technology is nothing that will get me a job (p5.js is not a very desired technology skill), but as my Tweet said for today, 'Nice thing bout havin a cool job (and not job searchin) is that I can work on the stuff I love ❤️ without worry if I'm 'doing the right thing.'
 
 **Links to work:**
 
@@ -343,7 +353,7 @@ Reading Daniel Shiffman's 'The Nature of Code' is always something I have wanted
 **Today's Progress**: Continued studying the code of Steepless
 
 **Thoughts:**
-When I have a very a little amount of lines of code to commit to Github, I feel that I am unproductive. However, contrary to my belief, a deeper understanding of the code I am trying to implement is what will make me application great. In the past, a lot of times I start drawings with no plan and that is often how my coding has been in the past. They turn out fine. However, with code, I know it will help me to understand each part of the code and how each part integrates with another. Otherwise, it will get messy. Also, I won't be able to talk to anyone about it.
+When I have a very a little amount of lines of code to commit to Github, I feel that I am unproductive. However, contrary to my belief, a deeper understanding of the code I am trying to implement is what will make my application great. The way I approach art and coding is similar; I start each project with no plan and usually, they turn out fine. However, with code, I know it will help me to understand each part of a project integrates with another. Otherwise, it will get messy. Also, I won't be able to talk to anyone about it.
 
 **Links to work:**
 
@@ -355,7 +365,7 @@ When I have a very a little amount of lines of code to commit to Github, I feel 
 **Today's Progress**: Started Life project, studied the code of Steepless
 
 **Thoughts:**
-Today I restart this challenge. I do not want to count how many times I have restarted. I looked up Lim Chee Aun, the creator of Steepless, the application that I am using parts of it's code for my Bay Wheels Planner application. Lim Chee Aun was featured on Hacker News for his Life application (https://github.com/cheeaun/life). Today I made a fork to help map out my own life.
+Today I restart this challenge. I do not want to count how many times I have restarted. I looked up Lim Chee Aun, the creator of Steepless, the application that I am using parts of it's code for my Bay Wheels Planner application. Lim Chee Aun was featured on Hacker News for his Life application (https://github.com/cheeaun/life). Today I made a fork of his Life project to help map out my own life.
 
 **Links to work:**
 

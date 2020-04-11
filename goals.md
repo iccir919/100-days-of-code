@@ -4,6 +4,6 @@
 - [ ] [Nature of Code](https://natureofcode.com/)
 - [ ] [FreeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/iccir919)
 - [ ] [FreeCodeCamp JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/iccir919)
-- [ ] [JavaScript 30](https://javascript30.com/)
 - [ ] [FreeCodeCamp Front End Libraries Certification](https://www.freecodecamp.org/iccir919)
 - [ ] [FreeCodeCamp Data Visualization Certification](https://www.freecodecamp.org/iccir919)
+- [ ] [JavaScript 30](https://javascript30.com/)
