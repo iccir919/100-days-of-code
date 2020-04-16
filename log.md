@@ -1,14 +1,54 @@
-# 100 Days Of Code - Log
+# Log
+
+### Day 32: April 15, 2020
+
+**Today's Progress**: For freeCodeCamp: Completed Basic Data Structures and Completed Object Oriented Programming
+
+**Thoughts:** Today was a tough day at work because of the stimulus checks being sent to tons of American's bank accounts. I barely made it through the tickets I was assigned today at work. Interestingly, in terms of work and this challenge, I never feel like I am accomplishing enough each day. Compared to my co-workers, I feel like I should be doing more than I am. Compared to everyone in this challenge, I hope that I will be able to at least finish at least the majority of the tasks on my goal list by the end of this challenge. Today in my freeCodeCamp sectionst that I covered, I was reintroduced to the exciting world of prototypes and constructors in JavaScript. While these concepts are a major component of the language, I feel that with all of the new frameworks and syntax with JavaScript, that they can get easily lost. I guess if I ever missed seeing such vanilla JavaScript in the future that I can always convert my new JavaScript code with a compiler like Babel.
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+
+### Day 31: April 14, 2020
+
+**Today's Progress**: For freeCodeCamp: Completed the ES6 section. Also completed the Basic Algorithm Scripting section 
+
+**Thoughts:** There is a lot of new ES6 syntax to try out in future projects. My hope was that by reading through latest version of Eloquent JavaScript that I would have learned about most of it but I feel like there was a lot that as left out in the book. Luckily, I have all this material from freeCodeCamp and I will try to implement the new syntax into my future projects.
+
+> “For the things we have to learn before we can do them, we learn by doing them.” -Aristotle
+
+I am also happy to have completed the Basic Algorithm Scripting section. While this is a smaller victory, it brings me one step closer to obtaining the JavaScript Algorithms and Data Structures Certification. In all my years of coding, I don't think I have yet obtained this certification. Like the book Eloquent JavaScript, I know that I will have to go over the material in the future to make sure that I fully understand the content, especially in regards to ES6. I must keep to up to date on JavaScript's latest syntax to be able to stay relevant in the community. 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+
+### Day 31: April 13, 2020
+
+**Today's Progress**: Missed a day but it's okay. Today I worked through the random parts of the freeCodeCamp JavaScript Algorithms and Data Structures Certification
+
+**Thoughts:** I missed a day because I took a break and got a little crazy with my family for Easter. We all watched the the movie "Cats" together. While I would love to say everyone had fun, in some ways, I feel it was mostly me and my brother. I _hate_ when my fun takes over the fun of others around me. In terms of coding, today I was unfocused. Rather than focus on certain sections from the freeCodeCamp JavaScript Algorithms and Data Structures Certification, I just picked random easy topics. I just wanted to feel a sense of progress after feeling like I took so many steps back last night. I hate missing a day from being totally consistent during this challenge. However, I am happy to have got right back into it. 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+
+### Day 30: April 11, 2020
+
+**Today's Progress**:  For Eloquent JavaScript: Completed the exercises from Chapter 12: Project: A Programming Language and Read through all of Chapter 13: JavaScript and the Browser. For freeCodeCamp: Completed all 110 exercises of the Basic JavaScript section
+
+**Thoughts:** Today I reflected on my previous entried in this log. Anxiety about my lack of substantial progress, excitement for contributing to The Nature of Code, drinking alcohol holding me back, the annoyance of repeating the same material, and learning of new concepts were some of the common themes. I wanted to post some of these to Twitter but I realized that threads, a feature of Twitter, are absolutely horrible. In a strange twist of my ambitions during this challenge, I have decided to put a pause on Eloquent JavaScript. My new focus is reviewing and applying the knowledge I gained from Eloquent JavaScript to obtaining the FreeCodeCamp JavaScript Algorithms and Data Structures Certification. 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
 
 ### Day 29: April 10, 2020
 
 **Today's Progress**: Chapter 12 - Project: A Programming Language from the book Eloquent JavaScript, which describes building a language, Egg, on top of JavaScript. Read through it and currently working through its exercises. 
 
-**Thoughts:** The title of this chapter is very intimidating; Really, we are going to build a programming language!? Fortunately, the material was not as challenging as the previous chapter Asynchronous Programming. In fact, it was pretty insightful to how the JavaScript language works. I had not really thought about operators as being like functions until this chapter went over creating them for own programming language. Additionally, I enjoyed taking a closer look into how scope operates, especially in the context of the creation of a new functions. My dad wanted to watch a movie tonight (after we had already watched an hour long television show) and I turned down the offer in favor of working through this chapter. Overall, I am happy with this decision because I really wanted to get over this "Language" section (Chapter 1 - Chapter 12) of Eloquent JavaScript and into the "Browser" section. 
+**Thoughts:** The title of this chapter is very intimidating; Really, we are going to build a programming language!? Fortunately, the material was not as challenging as the previous chapter Asynchronous Programming. In fact, it was pretty insightful to how the JavaScript language works. I had not really thought about operators as being like functions until this chapter went over creating them for our own programming language. Additionally, I enjoyed taking a closer look into how scope operates, especially in the context of the creation of a new functions. My dad wanted to watch a movie tonight (after we had already watched an hour long television show) and I turned down the offer in favor of working through this chapter. Overall, I am happy with this decision because I really wanted to get over this "Language" section (Chapter 1 - Chapter 12) of Eloquent JavaScript and into the "Browser" section. 
 
 **Links to work:**
 - [Eloquent JavaScript](https://eloquentjavascript.net)
-- [Solutions to Exercises from Chapter 11 of Eloquent JavaScript]()
+- [Solutions to Exercises from Chapter 12 of Eloquent JavaScript](https://github.com/iccir919/eloquent-javascript/tree/master/12_a_programming_language/exercises)
 
 ### Day 28: April 9, 2020
 
