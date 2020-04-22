@@ -1,6 +1,51 @@
 # Log
 
-### Day 32: April 15, 2020
+### Day 38: April 21, 2020
+
+**Today's Progress**: Completed the JavaScript Algorithms and Data Structures Certification for freeCodeCamp
+
+**Thoughts:** Today I did something that I have never done before in all my years of coding, actually completed the JavaScript Algorithms and Data Structures Certification from freeCodeCamp. I spent so much time on the last lesson, Positive and Negative Lookahead, which is of course from the Regular Expressions section. I want to talk about this lesson, extract a teaching from my pains, and make the time I wasted on it worth it. I kept typing in the same answer expecting something different. I wish I would have asked, "What is wrong?" and took a look at what was in front of me with an objective eye. What was I basing my fact(s) off from that makes me believe my answer to be correct? I often do the same thing at work. A personal and subjective goal for this challenge is to become a better problem solver by learning to change the way I approach something complicated or difficult. Rather than just be insane and do the same thing, become conscious, pausing and reflecting on the matter, and trying to not let my own emotion take over my thought process. It's funny to me how I was telling myself that I just wouldn't get this lesson because I am not good with regular expressions. In the end, I cheated and looked at this solution, but I hope this entry and whatever my future self takes from it makes the guilt worth it.
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+
+### Day 37: April 20, 2020
+
+**Today's Progress**: Working through the JavaScript Algorithms and Data Structures Certification 
+
+**Thoughts:** Progress towards completing this certificiation is steady but not as fast as I imagine. However, has any goal of mine  really been completed on time? I remember when my mom would tell me four years ago after college that I am almost thirty years old and should try to move out immediately. I told her that she was crazy then, however here we are now, and there are only months until my thirtieth birthday. I wish I had more to say about coding today but I feel like much with anything, your personal life can affect your progress with that thing. I hate to be on a sob train but I have not ever been really good at something before, just always mediocre. Today I had another book club session for the book The Power of Now. By reading it, I am reminded to let go of these pains from the past or anxieties about the future. 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+
+### Day 36: April 19, 2020
+
+**Today's Progress**: Working through the JavaScript Algorithms and Data Structures Certification 
+
+**Thoughts:** Today I worked on challenges from the JavaScript Algorithms and Data Structures Certification by freeCodeCamp. Though it has been a real struggle today to get much done because of staying up too late last night with my brother, drinking alcohol and talking about whatever. We talk so much about ourselves and other people, but how little action we really do. This reminds me of myself before I started this challenge. I would tell people my 'story,' but it became clear none of it mattered. Only my actual work did; my projects, my never contributing to open source projects, etc. My goal was to finish a this certification by this weekend but due to drinking too much, I do not have the energy to make it happen. 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+
+### Day 35: April 17, 2020
+
+**Today's Progress**: Completed Functional Programming of freeCodeCamp
+
+**Thoughts:** Today was a tough day. I felt like I hardly had time or enevery to code after putting out the fires both at work and within my family. I feel this whole certification  sould be simple since I claim to have surrounded myself with JavaScript for the past three or more years. The further I get into this challenge, the more I love it. I am starting to think to myself on a daily basis, "When will I have time to make coding progress toady?" As a single man who lives with his parents, I do not believe there is any reason to believe why I cannot accomplish what I set my mind to. 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+
+### Day 34: April 16, 2020
+
+**Today's Progress**: Working through Functional Programming and Intermediate Algorithm Scripting
+
+**Thoughts:** Today was my Mom's birthday. I say this as an excuse to explain my lack of progress today. Strangely, yesterday's announcemnt of my completion of those two sections in this JavaScript certification was my most liked tweet on Twitter. It makes me wonder where I will be in another thirty days? There is this cazy vision in my head of actually completing this JavaScipt certification from freeCodeCamp and posting it on my Twitter by the end of this weekend. To me it is funny that I am excited for the responses of strangers on the Internet but know that I will get very little reaction from my immediate family. Despite my lack of noteable progress today, I have been reminding myself during this whole challenge, I belive that some days it is okay to not have progress like everyone else. 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+
+### Day 33: April 15, 2020
 
 **Today's Progress**: For freeCodeCamp: Completed Basic Data Structures and Completed Object Oriented Programming
 
@@ -9,7 +54,7 @@
 **Links to work:**
 - [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
 
-### Day 31: April 14, 2020
+### Day 32: April 14, 2020
 
 **Today's Progress**: For freeCodeCamp: Completed the ES6 section. Also completed the Basic Algorithm Scripting section 
 
