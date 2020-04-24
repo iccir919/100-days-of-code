@@ -1,5 +1,37 @@
 # Log
 
+### Day 41: April 24, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+- [Team Treehouse Front End Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
+
+
+### Day 40: April 23, 2020
+
+**Today's Progress**: Working through the Basic CSS version of the Responsive Web Design Certification for freeCodeCamp and through the exercises of Chapter 14 - The Document Object Model of Eloquent JavaScript
+
+**Thoughts:** Today is another day of synchronicity, though it was planned by me. I just love when the material of two resources that I am using come together. Today was about learning HTML and CSS. No matter how many times I go over these two topics, I always feel like I am learning something new. I am happy that I am working on freeCodeCamp projects and through the chapter exercises of Eloquent JavaScript because it adds some green boxes to my Github commit history timeline. It is crazy that in all the weeks from the start of this challenge to now that I have not had one week that I committed to Github everyday. 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+
+### Day 39: April 22, 2020
+
+**Today's Progress**:  Completed Basic HTML and HTML5 section for the Responsive Web Design Certification for freeCodeCamp. Reading through Chapter 14 - The Document Object Model of Eloquent JavaScript
+
+**Thoughts:** My personal life issues are getting in the way of completing my goals for this challenge. I have been dealing with the same issues for a long time now. Recently, I have tried again to fix them but it seems futile and like a waste of energy. I started my hour of code very late late into the night since I spent a lot of time talking about resolutions with others but I am now tired. Nonetheless, I was able to complete Basic HTML and HTML5, the first section of the Responsive Web Design Certification. This will be like the third time that I will have completed this certification. Nonetheless, I will make it the best by combining all freeCodeCamp with Team Treehouse to create my best looking projects yet. 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+- [Eloquent JavaScript](https://eloquentjavascript.net)
+
 ### Day 38: April 21, 2020
 
 **Today's Progress**: Completed the JavaScript Algorithms and Data Structures Certification for freeCodeCamp
