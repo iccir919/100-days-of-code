@@ -1,10 +1,30 @@
 # Log
 
+### Day 43: April 28, 2020
+
+**Today's Progress**: Reviewed the videos about Getting Started with CSS and Basic Selectors for Team Treehouse and completed building out the HTML structure for my Introduction to the Responsive Web Design Projects for freeCodeCamp
+
+**Thoughts:** Sigh, I completed today what I wanted to this past weekend. When I log on to Twitter, I get depressed because other people have been able to continue the challenge everyday and now I am behind them. I had envisioned us completing the challenge on the same day and celebrating together; another example of how much I am looking into what lies ahead rather than being in the present. Now that I have completed the HTML part of my Introduction to the Responsive Web Design Projects, I move into the CSS part. I consider myself such a visually oriented person, telling myself and others that I love the presentation aspect of coding, and yet, I really am dragging my feet to work through this material about CSS. What keeps me motivated is that by continuing to move forward, I will soon complete four of my goals for this challenge. 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+- [Team Treehouse Front End Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
+
+### Day 42: April 27, 2020
+
+**Today's Progress**: Reviewing videos about HTML Forms from Team Treehouse and continuing to build out the HTML skeleton structure for my Introduction to the Responsive Web Design Projects
+
+**Thoughts:** I really messed up this weekend, and if anyone took a look at the previous logs in this journal (paying close to attention to the weekends), then they would have been easily able to predict such a disaster. I spent the weekend messing around, doing anything but being productive. Like a mini vacation, except it was actually pretty toxic and made me feel worse about myself rather than rejuvenating. Yesterday, I got myself so hyped that I am doing so well and that I am *going* to be so productive in the next upcoming days. I start losing myself in the future rather than living in the **now**. It would be easy to blame my brother for asking me to drink with him but that was only during the nighttime. I had all of the daytime available to me but I chose to not code. Despite taking more than a day off from this challenge, I am not restarting it. My mental goal for the second half will to not let myself get carried away in the future or past because both are so detremintal to my progress. I want to make realistic goals for each day and try my best to complete them. 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+- [Team Treehouse Front End Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
+
 ### Day 41: April 24, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Reviewed all videos from HTML Basics from Team Treehouse, working on building out the HTML skeleton structure for my Introduction to the Responsive Web Design Projects for freeCodeCamp, and completed exercises from Chapter 14 - The Document Object Model from Eloquent JavaScript
 
-**Thoughts:** 
+**Thoughts:** Today was a productive day for me. I really feel like I am using all of the resources that I have available to me right now. However, in reviewing the Team Treehouse videos, I do get that feeling again that I keep going backwards because this is something that I did like three months ago. The only way to get rid of this feeling is to keep moving forward, Neil; do not stop. I am thrilled to complete another chapter of Eloquent JavaScript, especially this chapter since it marks being two thirds done with this book. The freeCodeCamp projects offer a great opportunity to practice my web development skills. I hope to be done with my Responsive Web Design Projects soon!
 
 **Links to work:**
 - [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
@@ -26,7 +46,7 @@
 
 **Today's Progress**:  Completed Basic HTML and HTML5 section for the Responsive Web Design Certification for freeCodeCamp. Reading through Chapter 14 - The Document Object Model of Eloquent JavaScript
 
-**Thoughts:** My personal life issues are getting in the way of completing my goals for this challenge. I have been dealing with the same issues for a long time now. Recently, I have tried again to fix them but it seems futile and like a waste of energy. I started my hour of code very late late into the night since I spent a lot of time talking about resolutions with others but I am now tired. Nonetheless, I was able to complete Basic HTML and HTML5, the first section of the Responsive Web Design Certification. This will be like the third time that I will have completed this certification. Nonetheless, I will make it the best by combining all freeCodeCamp with Team Treehouse to create my best looking projects yet. 
+**Thoughts:** My personal life issues are getting in the way of completing my goals for this challenge. I have been dealing with the same issues for a long time now. Recently, I have tried again to fix them but it seems futile and like a waste of energy. I started my hour of code very late late into the night since I spent a lot of time talking about resolutions to my life issues with others but I am now tired. Nonetheless, I was able to complete Basic HTML and HTML5, the first section of the Responsive Web Design Certification. This will be like the third time that I will have completed this certification. Nonetheless, I will make it the best by combining all of the material from freeCodeCamp with Team Treehouse to create my best looking projects yet. 
 
 **Links to work:**
 - [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
