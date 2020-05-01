@@ -1,10 +1,22 @@
 # Log
 
+### Day 45: April 30, 2020
+
+**Today's Progress**: Reviewed videos from sections: The Box Model, Basic Layout, Getting Started with CSS Layout, and Controlling Layout with CSS Display Modes
+
+**Thoughts:** During my last round of this challenge, someone reminded me to build things during this challenge, not just get stuck in tutorial hell. While all I did for today was watch tutorial videos, I have the full intention of applying this knowledge to my freeCodeCamp projects this weekend. One goal fo mine is to use at least one one of these three layout tools: Floats, Flexbox, and CSS Grid. While watching all of these videos for CSS layout, I am thinking about which tool will serve what project best. It's funny how I thought that I would be so far along with these freeCodeCamp projects last weekend but I don't think I had considered how much there is to learn. I will be if I complete all of the freeCodeCamp projects by the end of the next week, so long as they look good and I really feel like I understand each of their CSS and HTML code. Here are some more goals I have for these freeCodeCamp projects. One goal is that each project should have a mobile first approach, meaning that I will start each design with the smallest screen in mind and grow bigger. Another goal of mine for these projects is to apply every topic from the freeCodeCamp lessons for Responsive Web Design into these four projects. 
+
+**Links to work:**
+- [Team Treehouse Front End Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
+
 ### Day 44: April 29, 2020
 
 **Today's Progress**: Reviewed all of the videos from Understanding Values and Units from Team Treehouse and worked on the CSS for my Survey From project for freeCodeCamp
 
 **Thoughts:** Another day where I do not get done as much as I had planned. Nevertheless, I am happy that I continued to make progress. While I thought I knew everything about Understanding Values and Units, the subject of relative lengths units was something I have never incorporated into many of my previous projects. Here is how font-relative units are helpful: let's say I am going to need to change the size of a whole bunch of font sizes at once, for instance when I am adjusting for a large to mobile screen, then I want to base all of those text sizes off of one root size. This example shows the brilliance of using using rem for selecting the font size for all of the fonts. Wait, am I actually talking about code for once in this log? Well, let me set things back on track that by writing in this entry something personal. For the longest time, I have lived in a fantasy that I am a web developer but my track record would show quite the opposite truth. I attended a bootcamp thinking I could pay my way into this opportunity. Then after the bootcamp, I never got the web developer job and I have been paying for that bootcamp with customer support positions. There is nothing wrong with this type of work; in fact, I love my current position that combines techincal problem solving with support. What was wrong is that before this position is that I kept telling people that I am a web developer but I never worked on any code like I am now. I was living in a fantasy, a farse, and a lie.
+
+**Links to work:**
+- [Team Treehouse Front End Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
 
 ### Day 43: April 28, 2020
 
