@@ -1,5 +1,34 @@
 # Log
 
+### Day 47: May 4, 2020
+
+**Today's Progress**: Completed the Survey Form and the Tribute Page projects for Responsive Web Design Certification for freeCodeCamp and got through some of the questions from the Arcade section with JavaScript with Code Signal
+
+**Thoughts:** Wahoo, today I actually completed some projects for freeCodeCamp. It is nice to finally have some of the checkmarks for the Responsive Web Design Certification Projects marked after such a long time of little progress. Now, I have to talk about the bad aspect. My projects very much look like the tutorials from Team Treehouse and examples from freeCodeCamp. It is just interesting to me that I would so blatantly copy the design of others projects. I used to tell people the reason I loved front end development was the creative expression it allowed. But to be honest, it is come up with beautiful designs. The disappoint of what I thought this would and what is my current reality is causing me to have not having as much fun as I thought I would when I told people about my ambitions for this profession. The reason I want to continue moving forward with these projects is to continue moving forward. I have said this before but my hope is that I will continue to come back to them to improve upon as I learn more and more.  
+
+**Links to work:**
+- [Team Treehouse Front End Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
+- [Code Signal](https://codesignal.com/)
+
+### Day 46: May 3, 2020
+
+**Today's Progress**: Completed reviewing the videos for the following courses: CSS Basics and Responsive Layouts for Team Treehouse and Completed a couple of SQL questions from Code Signal.
+
+**Thoughts:** Today was a lot of reviewing Team Treehouse videos that I have already watched like a couple of months. The material is obviously nothing to me but it does refresh my memory of the topics about CSS layout properties (float, display, the box model, box sizing, etc.). The most important thing is that I keep myself immersed in CSS by continuing to practice this knowledge. My main problem is that these tutorials explain a concept and I think I understand after completing it but the truth is that when it comes down to the moment of making something on my own, I feel lost. These more I practice CSS, then the less impossible it will seem. The reason I have started to learn SQL is today at work I realized how helpful querying our databases can be for my technical investigations. So many times in my past I have just dabbled in these topics. Now I want to spark the flame but let it continue to burn.
+
+**Links to work:**
+- [Team Treehouse Front End Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
+- [Code Signal](https://codesignal.com/)
+
+### Day 46: May 3, 2020
+
+**Today's Progress**: Working through the CSS Layout Project section. This is my favorite because it is not passive learning.
+
+**Thoughts:** Goal for next week: break my current longest streak of five days for consistent Github commits and freeCodeCamp lessons progress. I'm disappointed with my progress this weekend, just like I have been for most of the past weekends. Despite my thought on Friday of how excited I am for the idea of what I can accomplish during the weekend, my actions show my true color. The urge for escape is strong with me and it seems by the way I behave, I don't want to work on any code during the weekend. However, this is far from the truth. Completing a project brings me more joy than any of the things that I do during the weekend: watch a lot of YouTube, television shows, movies, etc. It also didn't help that I drank with my brother. We definitely did too much this time; sleeping late and being lethargic all through the next day is a waste of the potential. Today I completed a project course from Treehouse and the interactivity with having to complete tasks based off the material covered in previous videos has made this one of my favorites.
+
+**Links to work:**
+- [Team Treehouse Front End Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
+
 ### Day 45: April 30, 2020
 
 **Today's Progress**: Reviewed videos from sections: The Box Model, Basic Layout, Getting Started with CSS Layout, and Controlling Layout with CSS Display Modes
