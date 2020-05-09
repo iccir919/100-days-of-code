@@ -1,6 +1,38 @@
 # Log
 
-### Day 47: May 4, 2020
+### Day 51: May 9, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+- [Code Signal](https://codesignal.com/)
+- [Team Treehouse Front End Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
+
+
+### Day 50: May 8, 2020
+
+**Today's Progress**: Reviewing the videos from the CSS Flexbox Layout Coure from Team Treehouse. Working through the exercises from Learn CSS Flexbox section from freeCodeCamp
+
+**Thoughts:** I skipped another day. What was a once in a while thing has now become a weekly occurrence. How dedicated am I to this challenge? It is not like there is anything more important in my life. I just don't take my life serious. There is not enough dedication and passion from me. What was supposed to be completed during this work week, Responsive Web Design Certification, has been pushed off to this weekend. I know where I want to be but I don't think I have thought enough about the effort it will take to get there. For the past few days, the dates of this journal have been all mixed up, which I believe is a good indicator to my mental state. I did not complete my goal for having streaks (meaning continuous activity) on all of the websites I am using during this challenge: freeCodeCamp, Github, Code Signal, and Team Treehouse. Even just a little progress Neil is better than nothing. Do not let anymore days pass where I do nothing. 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+- [Team Treehouse Front End Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
+
+### Day 49: May 6, 2020
+
+**Today's Progress**: Completed my Technical Documentation Page Project to the point where it pasts all the tests and looks okay. Also, worked through some challenges from Code Signal.
+
+**Thoughts:** I'm happy to get this project to a "Done" enough state that I can submit it to freeCodeCamp. However, my hope is that I do not completely leave it alone moving forward. I still want to apply the lessons I will learn in the upcoming sections from freeCodeCamp to these projects to make them the best as possible. It felt good to be able to look at the example project and know how to make my project look like it with CSS. Some extra features that might be interesting to consider for this project is adding "Night Mode," something a lot of the big and small websites are adding. There is this feeling in me that I am just repeating what I have already accomplished in the past and that I have not made any true progress. There are a lot of technologies that I have avoided, like SASS, that are industry standards but I have not pushed myself to learn. However, I will not get too discouraged. I am building a strong foundation, so that learning these new technologies hopefully will not be more like adding on to what I already know. 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+- [Code Signal](https://codesignal.com/)
+
+### Day 48: May 5, 2020
 
 **Today's Progress**: Completed the Survey Form and the Tribute Page projects for Responsive Web Design Certification for freeCodeCamp and got through some of the questions from the Arcade section with JavaScript with Code Signal
 
@@ -10,7 +42,7 @@
 - [Team Treehouse Front End Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
 - [Code Signal](https://codesignal.com/)
 
-### Day 46: May 3, 2020
+### Day 47: May 4, 2020
 
 **Today's Progress**: Completed reviewing the videos for the following courses: CSS Basics and Responsive Layouts for Team Treehouse and Completed a couple of SQL questions from Code Signal.
 
