@@ -1,10 +1,31 @@
 # Log
 
+### Day 53: May 11, 2020
+
+**Today's Progress**: Completed the exercises from Learn CSS Flexbox section and the the Personal Portfolio Project from freeCodeCamp. Also finished reviewing the videos from the CSS Flexbox Layout Course.
+
+**Thoughts:** Today I accomplished my main goals from this past weekend. So, even though I messed up, I was able to make up for the loss today. Today I considered that maybe I am just making too big of goals for myself, only setting myself up for failure. However, at the same time, I know that I wasted a lot of time yesterday. Looking at my Github and freeCodeCamp activity, I am not very productive during the weekend. I know that if I can improve this weakness, then I will be able to complete more goals than I believe to be possible right now. I'm pretty happy with the results of my Personal Portfolio Project. There are are already things that I am planning on adding on to it, like box shadows to images and a contact form. Though I already submitted the project because this basic version passes all of the necessary tests provided by freeCodeCamp. Hopefully by the end of this week, I will complete the Front End Web Development track by Team Treehoue and receive the Responsive Web Design Certification from freeCodeCamp. Then I will have completed three out of the eight goals for this challenge.
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+- [Team Treehouse Front End Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
+
+### Day 52: May 10, 2020
+
+**Today's Progress**: Continuing to review the videos from the CSS Flexbox Layout Course from Team Treehouse. Also, Continuing to work through the exercises from Learn CSS Flexbox section from freeCodeCamp
+
+**Thoughts:** I had a lot of free time this morning and early afternoon but I did not use it wisely. Instead I went back to my old self and just messed around, which is the biggest waste. While it may feel good in the moment, I feel much regret after the time of doing nothing runs out. I could have very easily finished reviewing the videos from Team Treehouse and the sections from freeCodeCamp today. Now, I have to continue to deal with the guilt of getting no where close to where I wanted to this weekend. It's like I make more progress during the week days when I have less free time available. For some good news, I am continuing to make a little progress with Code Signal, another website I am using to grow my coding knowledge. Code Signal strengthens a person's algorithm problem solving by providing a lot of interesting questions. Additionally, there is a social aspect where you can battle others from around the world. At some point I know that I will reopen Cracking the Coding Interview if I want to continue solving problems every day from Code Signal. However, just going over the problems I have solved many times before is good enough for me right now. The goal is to build in the habit of working such interview questions daily. 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+- [Team Treehouse Front End Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
+
 ### Day 51: May 9, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Continuing to review the videos from the CSS Flexbox Layout Course from Team Treehouse. Also, continuing to work through the exercises from Learn CSS Flexbox section and applying what I'm learning to my Product Landing Page and Personal Portfolio Page
 
-**Thoughts:** 
+**Thoughts:** What really bugs me is how when I take a quiz from Team Treehouse and get an answer wrong, I realize how much about CSS I don't know. I excuse myself with this thought CSS is hard. But then, I will take a JavaScript quiz and consider it to be easy, so what I'm learning about CSS is probably not that difficult! I did not accomplish what I had planned for today. I had such big plans for today and I was not able to accomplish much of them. Instead I went on a hike with my friend. We discussed the importance of having a routine. The key to accomplishing your dreams is consistent improvement and the best way to get there is by buidling progress to be a daily habit. I also went to the grocery store for Mother's Day items, played some basketball, and watched a movie with my dad and brother. These things that seem like are taking away from my coding time are actually essentials of life that are somewhat necessary. However, unless I am very productive tomorrow, which is unlikely since we are having a family get together, I will not accomplish my goals that I had set out for myself yesterday. The more that I practice with Flexbox, the more I see its incredible usefulness. I cannot imagine trying to make a website responsive without being able to use Flexbox. I am a little disappointed I am building cloning my current website for Personal Portfolio Project but in another aspect, I am proud that I am able to make it responsive to other screen sizes without using Bootstrap. 
+
 
 **Links to work:**
 - [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
@@ -14,9 +35,9 @@
 
 ### Day 50: May 8, 2020
 
-**Today's Progress**: Reviewing the videos from the CSS Flexbox Layout Coure from Team Treehouse. Working through the exercises from Learn CSS Flexbox section from freeCodeCamp
+**Today's Progress**: Reviewing the videos from the CSS Flexbox Layout Course from Team Treehouse. Working through the exercises from Learn CSS Flexbox section from freeCodeCamp
 
-**Thoughts:** I skipped another day. What was a once in a while thing has now become a weekly occurrence. How dedicated am I to this challenge? It is not like there is anything more important in my life. I just don't take my life serious. There is not enough dedication and passion from me. What was supposed to be completed during this work week, Responsive Web Design Certification, has been pushed off to this weekend. I know where I want to be but I don't think I have thought enough about the effort it will take to get there. For the past few days, the dates of this journal have been all mixed up, which I believe is a good indicator to my mental state. I did not complete my goal for having streaks (meaning continuous activity) on all of the websites I am using during this challenge: freeCodeCamp, Github, Code Signal, and Team Treehouse. Even just a little progress Neil is better than nothing. Do not let anymore days pass where I do nothing. 
+**Thoughts:** I skipped another day. What was a once in a while thing has now become a weekly occurrence. How dedicated am I to this challenge? It is not like there is anything more important in my life. I just don't take my life seriously. There has not been enough dedication and passion from me. What was supposed to be completed during this work week, the Responsive Web Design Certification, has been pushed off to this weekend. I know where I want to be but I don't think I have thought enough about the effort it will take to get there. For the past few days, the dates of this journal have been all mixed up, which I believe is a good indicator to my mental state. I did not complete my goal for having streaks (meaning continuous activity) on all of the websites I am using during this challenge: freeCodeCamp, Github, Code Signal, and Team Treehouse. Even just a little progress Neil is better than nothing. Do not let anymore days pass where I do nothing. 
 
 **Links to work:**
 - [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
@@ -26,7 +47,7 @@
 
 **Today's Progress**: Completed my Technical Documentation Page Project to the point where it pasts all the tests and looks okay. Also, worked through some challenges from Code Signal.
 
-**Thoughts:** I'm happy to get this project to a "Done" enough state that I can submit it to freeCodeCamp. However, my hope is that I do not completely leave it alone moving forward. I still want to apply the lessons I will learn in the upcoming sections from freeCodeCamp to these projects to make them the best as possible. It felt good to be able to look at the example project and know how to make my project look like it with CSS. Some extra features that might be interesting to consider for this project is adding "Night Mode," something a lot of the big and small websites are adding. There is this feeling in me that I am just repeating what I have already accomplished in the past and that I have not made any true progress. There are a lot of technologies that I have avoided, like SASS, that are industry standards but I have not pushed myself to learn. However, I will not get too discouraged. I am building a strong foundation, so that learning these new technologies hopefully will not be more like adding on to what I already know. 
+**Thoughts:** I'm happy to get the Technical Documentation Page Project to a "Done" enough state that I can submit it to freeCodeCamp. However, my hope is that I do not completely leave it alone moving forward. I still want to apply the lessons I will learn in the upcoming sections from freeCodeCamp to these projects to make them the best as possible. It felt good to be able to look at the example project and know how to make my project look like it with CSS. Some extra features that might be interesting to consider for this project is adding "Night Mode," something a lot of the big websites are adding. There is this feeling in me that I am just repeating what I have already accomplished in the past and that I have not made any true progress. There are a lot of technologies that I have avoided, like SASS, that are industry standards but I have not pushed myself to learn. However, I will not get too discouraged. I am building a strong foundation, so that learning these new technologies hopefully will not be so difficult. 
 
 **Links to work:**
 - [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
@@ -36,7 +57,7 @@
 
 **Today's Progress**: Completed the Survey Form and the Tribute Page projects for Responsive Web Design Certification for freeCodeCamp and got through some of the questions from the Arcade section with JavaScript with Code Signal
 
-**Thoughts:** Wahoo, today I actually completed some projects for freeCodeCamp. It is nice to finally have some of the checkmarks for the Responsive Web Design Certification Projects marked after such a long time of little progress. Now, I have to talk about the bad aspect. My projects very much look like the tutorials from Team Treehouse and examples from freeCodeCamp. It is just interesting to me that I would so blatantly copy the design of others projects. I used to tell people the reason I loved front end development was the creative expression it allowed. But to be honest, it is come up with beautiful designs. The disappoint of what I thought this would and what is my current reality is causing me to have not having as much fun as I thought I would when I told people about my ambitions for this profession. The reason I want to continue moving forward with these projects is to continue moving forward. I have said this before but my hope is that I will continue to come back to them to improve upon as I learn more and more.  
+**Thoughts:** Wahoo, today I actually completed some projects for freeCodeCamp. It is nice to finally have some of the checkmarks for the Responsive Web Design Certification Projects marked after such a long time of little progress. Now, I have to talk about the bad aspect. My projects very much look like the tutorials from Team Treehouse and examples from freeCodeCamp. It is just interesting to me that I would so blatantly copy the design of others projects. I used to tell people the reason I loved front end development was the creative expression it allowed. But to be honest, it is hard come up with beautiful designs. The disappoint of how I thought I fit into this profession versus what is my current reality is causing me to have not having as much fun as I thought it would be. I have said this before but my hope is that I will continue to come back to these projects to improve upon as I learn more and more.  
 
 **Links to work:**
 - [Team Treehouse Front End Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
@@ -46,7 +67,7 @@
 
 **Today's Progress**: Completed reviewing the videos for the following courses: CSS Basics and Responsive Layouts for Team Treehouse and Completed a couple of SQL questions from Code Signal.
 
-**Thoughts:** Today was a lot of reviewing Team Treehouse videos that I have already watched like a couple of months. The material is obviously nothing to me but it does refresh my memory of the topics about CSS layout properties (float, display, the box model, box sizing, etc.). The most important thing is that I keep myself immersed in CSS by continuing to practice this knowledge. My main problem is that these tutorials explain a concept and I think I understand after completing it but the truth is that when it comes down to the moment of making something on my own, I feel lost. These more I practice CSS, then the less impossible it will seem. The reason I have started to learn SQL is today at work I realized how helpful querying our databases can be for my technical investigations. So many times in my past I have just dabbled in these topics. Now I want to spark the flame but let it continue to burn.
+**Thoughts:** Today was a lot of reviewing Team Treehouse videos that I have already watched like a couple of months ago. The material is obviously nothing new to me but it does refresh my memory of the topics about CSS layout properties (float, display, the box model, box sizing, etc.). The most important thing is that I keep myself immersed in CSS by continuing to practice this knowledge. My main problem is that these tutorials explain a concept and I think I understand after completing it but the truth is that when it comes down to the moment of making something on my own, I feel lost. The more I practice CSS, then the less impossible it will seem. The reason I have started to learn SQL is today at work I realized how helpful querying our databases can be for my technical investigations. So many times in my past I have just dabbled in these topics. Now I want to spark the flame but let it continue to burn.
 
 **Links to work:**
 - [Team Treehouse Front End Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
