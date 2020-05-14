@@ -1,5 +1,26 @@
 # Log
 
+### Day 55: May 13, 2020
+
+**Today's Progress**: Completed the JavaScript Basic course and the JavaScript Functions course from Team Treehouse. I'm improving my Responsive Web Design Projects as I complete more the sections I have left finished yet
+
+**Thoughts:** Today was objectively one of my more productive days since I begun this challenge. I have completed a lot of material from Team Treehouse (like five times what I have done for the previously done on a day in this past week), I solved twice as many problems as the average user on Code Signal, I finished nine lessons from the Responsive Web Design certification by freeCodeCamp, and made a Github commit with some small improvements I have made to my Responsive Web Design Projects based off the freeCodeCamp lessons I have completed today. And yet, I still I have this feeling that it is not enough;  that I am so behind from where I should be. What was covered in the JavaScript Basics course from Team Treehouse today was what I learned like three years ago. I can't believe that this is what I'm spending my time on. However, I want to accomplish one of my goals, to complete the Team Treehouse Front End Development track. On the up side, I wish every day could be like today. I wonder where I'd be right now. Today started out great; I literally woke up and coded today, which has not happened in a while. However, the urge to escape to do something unproductive (mentally, physically, and emotionally) is strong in me. I must continue to fight this feeling. Tomorrow I should break my longest freeCodeCamp streak of five days. 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+- [Team Treehouse Front End Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
+- [Code Signal](https://codesignal.com/)
+
+### Day 54: May 12, 2020
+
+**Today's Progress**: Completed my Product Landing Page Project for freeCodeCamp 
+
+**Thoughts:** I 'finished' the Product Landing Page Project, last of the Responsive Web Design Certification from freeCodeCamp. I put finished in quotes because I have not reviewed or completed all of the lessons for HTML and CSS from freeCodeCamp and courses from Team Treehouse. Therefore, there are still additions that I plan to give to all four projects. My goal for all of these projects is to bring each topic at least one of these projects once. Only by implementing these concepts will I truly understand them. A funny story about tonight is that I thought I had completed the project around 9pm. I was to send a friend my work, so I put the link to the project into my phone and it looked terrible. I immediately rewrote all of the CSS. It took me to hours to finish the rewrite but I am pleased with the end result. I was very focused within that time, something I have not felt outside of work in a while. I am proud of myself for not taking the easy road and just moving on to the next certification. Instead I am reviewing the concepts to make sure that I understand them.
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+- [Team Treehouse Front End Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
+
 ### Day 53: May 11, 2020
 
 **Today's Progress**: Completed the exercises from Learn CSS Flexbox section and the the Personal Portfolio Project from freeCodeCamp. Also finished reviewing the videos from the CSS Flexbox Layout Course.
