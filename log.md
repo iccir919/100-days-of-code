@@ -1,5 +1,57 @@
 # Log
 
+### Day 60: May 19, 2020
+
+**Today's Progress**: Started to learn Python with Team Treehouse so that I can contribute to some of the projects going on at work. Answered a couple Python exercises with Code Signal. Completed the Applied Accessibility section by freeCodeCamp
+
+**Thoughts:** Today was a bit of a shift of my coding schedule. I have accepted to myself that in order to be able to contribute to projects at work, then I will need to learn Python. To be honest, my first impressions is that Python is an even more confusing language than JavaScript, despite hearing from the tutorial videos about how much easier it makes things. I guess in some terms of manipulating data types it is better than JavaScript but the syntax is very strange to me right now. Python seems familiar but strange to me at the same time. Working to stay persistent through this hundred days of code challenge is the only thing keeping me afloat right now. Every day that I continue to post an update on Twitter boosts my confidence higher and higher. I keep thinking about why these terrible things happen during the weekends. I wonder if it is the lack of strucutre of work? I don't believe this is my innner nature. The hardest part is that I know that I much more. Or is it cause of the people that I surround myself with? Are we products of an internal agenda or our environment?
+
+**Links to work:**
+- [Python Basics](https://teamtreehouse.com/library/python-basics-3)
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+- [Code Signal](https://codesignal.com/)
+
+### Day 59: May 19, 2020
+
+**Today's Progress**: Workin through the Web Accessibility Compliance course from Team Treehouse. Gettin through the Applied Accessibility section of freeCodeCamp.
+
+**Thoughts:** Another day of learning more about accessibility. Something I did not mention previously was how awesome it was to explore the other methods of accessing a website, like through voice control or one touch input. I can understand now why companies like Apple are so great when they build such amazing products but make the available to everyone. A very intersting experiment was to open up other major websites and see how accessible they were to otheres. For instance, I was surprised to see how much a major site like [Hacker News](https://news.ycombinator.com) is inaccessible, like no HTML semantics? I worked on applying some of the lessons I finished from freeCodeCamp and Team Treehouse into my existing projects. However, it was definitely not the most exciting topic since I know that my website(s) for now will not be viewed by many and probably a lesser proportion (just speaking statistically) will need all of the requirements of the WCAG guidelines. After such a detrimental weekend, I am working on ramping myself back up to normal of productivity. My hope is that I have learned my lesson and will stay committed this next weekend.
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+- [Team Treehouse Front End Development Track](https://teamtreehouse.com/tracks/front-end-web-development)
+
+### Day 58: May 18, 2020
+
+**Today's Progress**: Worked through some exercises. Trying to find balance between web development and algorithm practice
+
+**Thoughts:** Today was not much. I just had to do something because this past weekend was horrendous in terms of progress. I made a lot of big mistakes this weekend, such has been the normal for me lately. Now I will go into my typical depression that has been documented many times before in this journal. I feel guilty for not doing what I could have done, what I had planned to do for this weekend, and just dealing with the sadness of not being where I could have been. I know that I have problems. I escape too hard from my current life during the weekends. It's unfortunate that as a result I am productive only during the weekdays and then completely turn off my brain during the weekend. Why, God? I am working on being present but during this latest book club session, I was far from it. I'm so far from being woke. I have the dream but can't bring it a reality. I do not feel like I have made much prgress from myself three years ago. I lost my copy of The Power of Now. Back to the now, in terms of code progress I am happy that I have not stopped it. There have been larger periods where I have stopped coding for a much longer time. 
+
+**Links to work:**
+- [Code Signal](https://codesignal.com/)
+
+### Day 57: May 15, 2020
+
+**Today's Progress**: Completed the SQL Basics course from Team Treehouse. Working on applying the lessons from the Applied Accessibility section from freeCodeCamp into my Responsive Web Design Projects
+
+**Thoughts:** I completed the SQL course but still feel like I am missing a lot of information. When I look at the SQL code for some of the dashboards that I use at work, they just seem a lot more complex. None the less, it is great to go over some of the basic concepts. This course has reminded how important data analysis can be for a wide range of sort of jobs: engineering (obviously), marketing, and, as I am learning at work, customer support! Learning about accessibility has been an eye opener for me. I look at other websites with a critical eye now, especially the bigger websites. It definitely seems like only the biggest websites are the ones that are employing all of the principles that follow the WCAG principles. The lack of others doing so discourages me from implementing every part of the guidelines into my own projects. However, this is not a good reason not to implement these principles into my own websites. Plus, equality of all sorts is something I am passionate about, so why not do it? I feel such optimisim for this weekend but I know how my behavior from history and I am not sure I will do what I want unfortunately. 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+- [SQL Basics](https://teamtreehouse.com/library/sql-basics)
+- [How to Meet WCAG](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0)
+
+### Day 56: May 14, 2020
+
+**Today's Progress**: Completed the JavaScript Numbers course by Team Treehouse. Also added Dark Mode to my Technical Documentation Page for freeCodeCamp thanks to a great tutorial 
+
+**Thoughts:** To find a balance between code as a hobby, my work, and maintaining a social relationship with just my family has been difficult. The goals I made for today were aggressive. I barely accomplished one of them. I added Dark Mode to my Technical Documentation Page Project for freeCodeCamp. The idea came to me after I learned about CSS variables and I thought about how I could incorporate the concept into one of my projects. Despite my overall disappointment with not completing the things I planned to accomplish, I am super impressed by this small improvement I was able to make to my project. I am not sure how to deal with this feeling that I should be much further than where I am now other than just getting to where I never thought I would ever be. I posted a tweet about the Dark Mode improvement to Twitter. By some random luck of algorithms, I immediately received fifteen retweets. This tweet could have been my most far reaching in the longest time. However, the video I attached to the tweet to to demonstrate the new feature was not clear and so, I deleted the tweet. I rerecorded the video to meet my personal standards but when I retweeted it, the response was not the same. In fact it is one my least popular tweets. When people do see the tweet, they respond positively but it is not reaching the audience that it could've had I not deleted the original tweet. Lastly, in addition to freeCodeCamp and Team Treehouse, I am adding Mozilla Development Network to the list of resources to help me in my web development education.
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+- [Topic List for Learn web development by MDN](https://gist.github.com/iccir919/4dab948e1bcc674df67c9bb9b7256a94)
+- [Dark Mode Tutorial](https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8)
+
 ### Day 55: May 13, 2020
 
 **Today's Progress**: Completed the JavaScript Basic course and the JavaScript Functions course from Team Treehouse. I'm improving my Responsive Web Design Projects as I complete more the sections I have left finished yet
@@ -563,7 +615,7 @@ I particularly love an exercise from the Introduction chapter of The Nature of C
 
 **Today's Progress**: I found the official YouTube learning playlist for the Nature of Code. I supplemented my reading of the Introduction chapter with watching the videos and worked through the exercises.
 
-**Thoughts:** I skipped a day of this challenge because I drank too much alcohol, my 'ol nemesis in life, on the night of March 14, 2020. Instead of enjoying the small but continuous daily gains of learning, which benefit the overall plan of my professional development, I chose to instead joy the short-term pleasing but long-term destructive effects of ethanol. I need to stop escaping my currently mediocre life through it.
+**Thoughts:** I skipped a day of this challenge because I drank too much alcohol, my 'ol nemesis in life, on the night of March 14, 2020. Instead of enjoying the small but continuous daily gains of learning, which benefit my overall plan of professional development, I chose instead to enjoy the pleasing yet long-term destructive effects of ethanol. I need to stop escaping my currently mediocre life through it.
 
 When I found that Daniel Shiffman is this year working to revamp the YouTube content for the Nature of Code, I found it to be a sign that I am working through the content at the perfect time. It's awesome that he has not let the Nature of Code to become something stale; Instead he continually works to improve it. Translating his exercises from Processing to p5 is 'easy' but also is helpful to helping me to understand the p5.js library more and more.
 
