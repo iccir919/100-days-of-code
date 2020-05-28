@@ -1,5 +1,42 @@
 # Log
 
+### Day 64: May 25, 2020
+
+**Today's Progress**: Random Quote Machine project passes all the tests. Now to give it my personal style
+
+**Thoughts:**  
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+- [Random Quote Machine Project]((https://github.com/iccir919/random-quote-machine))
+
+### Day 63: May 24, 2020
+
+**Today's Progress**: Working through the Bootstrap and Sass sections for the Front End Development certification by FreeCodeCamp
+
+**Thoughts:**  A preprocessor is something that takes a bit of code and compiles it into a different bit of code. In the case of Sass, a CSS preprocessor, we're compiling the Sass language into regular old CSS. I am little confused of why Sass is so popular because it seems like the most popular features of Sass have already been implemented into CSS3, like variables and imports. However, I do see the value in the nesting feature since it cuts down on the unnecessary repetitive selections that happens with just CSS. Also, nesting maintains an organized feel to the style page. Sass is something I am still hesitant to implement into one of my projects right now but I have to put it into at least one. Moving into new territory like Sass is something that I have been waiting to do. I cannot keep just sticking with what I am comfortable with, like Boostrap. The freeCodeCamp section for Bootstrap has been easy for me. I have experience with Bootstrap and find it so amazingly intuitive. 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+
+### Day 62: May 23, 2020
+
+**Today's Progress**: Wrote all the logic for my Pomodoro Clock Project for freeCodeCamp and it passes all the tests. Now, I just have to make it look good
+
+**Thoughts:** Today was a surprisingly productive day. I set out to do something and I did it. Well, to be more specific I built the logic for a React Pomodoro Clock application. I have done this project before, so it's not like I feel that I did something revolutionary. However, I can now confidentally say that should I ever be asked to build such a thing in an interview, then I can most definitely do it. React makes creating parts of a page so simple because everything is encapsulated within these sections that I define as the creator. There was a moment while I was working on this project that I wanted to restart because I was not passing the tests provided by freeCodeCamp. However, I remembered experiencing the same feeling when I had previously worked on this project and I was wrong. So, instead of restarting, I just kept moving. Fortunately, after I had finished the project to my best ability, I actually did pass all the tests finally. So, there is some lesson for life here. 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+
+### Day 61: May 22, 2020
+
+**Today's Progress**: Completed React section lessons by freeCodeCamp
+
+**Thoughts:** I skipped two days again. I got out of control again. I planned to do some things but I did not actually do them. I have no control over myself. I guess a way to think about it, which is very relateable to me right now, is a person on a diet. I make a plan to not eat certain foods and keep to certain amounts of calories per day. Also, during the weekend I plan on going a great big hike to really burn a lot of calories. During the week, I follow my eating plan, go on small walks, and I start to see some positive results. Then the weekend comes and everything falls apart. I am eating only fast food and a lot if it. I dont' go on the hike despite their being beautiful weather. Well, the same is with my code. I make some progress during the week and I start to imagine all the projects I will complete during the weekend. Then, on Friday I forget about it all and nothing gets done. Today I completed the lessons for the React section of the Front-End Development Course by freeCodeCamp. It was nice and easy. However, I have completed it many times before. I thought a lot today about how little progress I have actually made. It hurts me soul. My goal is to accomplish my goal that I set on Day 46, my most consitent Github commits and longest streaks on freeCodeCamp and Code Signal. 
+
+**Links to work:**
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
+
 ### Day 60: May 19, 2020
 
 **Today's Progress**: Started to learn Python with Team Treehouse so that I can contribute to some of the projects going on at work. Answered a couple Python exercises with Code Signal. Completed the Applied Accessibility section by freeCodeCamp
