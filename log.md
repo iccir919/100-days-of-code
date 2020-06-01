@@ -1,6 +1,6 @@
 # Log
 
-### Day 67: May 31, 2020
+### Day 68: June 1, 2020
 
 **Today's Progress**: 
 
@@ -9,11 +9,22 @@
 **Links to work:**
 
 
+### Day 67: May 31, 2020
+
+**Today's Progress**: Completed my Random Quote Machine project for freeCodeCamp. Also, worked on the other projects for my Front End Libraries Certification. Additionally, progressing through the Reporting with SQL course by Team Treehouse.
+
+**Thoughts:** In order to stay consistent with my coding, I am going to give up what makes me skip days for the remainder of this challenge. If I am not messing around, then there is a greater chance that I will code. Today was my most productive Sunday in like seven weeks, which is the majority of this challenge. Not surprisingly, today my chess scores are near the highest they have been in the past thirty days (I belive there is a correlation between the consistency how often I code with how high my chess scores are). I completed the styling and added logic for the random number selection for my Random Quote Project. It is not where it should be, but for right now, I am fine with it. Best not to worry about the small things and keep moving forward toward completing the bigger things (like finally obtaining the Front End Libraries Certification). I reread Chapter 14 of Eloquent JavaScript and redid the accompanying exercises. Fortunately, despite it being a month since I worked through this chapter, I was able to easily complete the exercises. Lastly, I began styling my Pomodoro Project. I took checked out some examples of other Pomodro Clocks, not the code but just what appeared on the browser, and I tried to implement it myself. 
+
+**Links to work:**
+- [Random Quote Machine](https://github.com/iccir919/random-quote-machine)
+- [Pomodoro Clock](https://github.com/iccir919/pomodoro-clock)
+- [Reporting With SQL](https://teamtreehouse.com/library/reporting-with-sql)
+
 ### Day 66: May 30, 2020
 
 **Today's Progress**: Continuing to work on my projects for the Front End Libraries Certification for @freeCodeCamp
 
-**Thoughts:** Today I was added some stlye to my Random Quote Machine project. There are lights that surround the quote. I added some animation to make the lights turn on and off, emulating the behavior of a movie marquee. I was only able to accomplish such an effect thanks to a workshop by Team Treehouse. I have never put animation into any of my projects before so I am happy that I finally to add it to one. Sometimes a concept like animation with CSS can seem so intimidating until I just suck it up and try it out. Even though I had the whole day to work on anything, I did not utilize like I should have. Not making any progress on Saturday has been my typical behavior for about the past seven weeks, which is the majority of this challenge. I am happy that I did a little bit of work, I would have liked to do more, but something is better than nothing. This next week, starting tomorrow, I will completely focus on making progress on freeCodeCamp and Code Signal and contributing code to Github every day of the week!
+**Thoughts:** Today I was added some style to my Random Quote Machine project. There are lights that surround the quote. I added some animation to make the lights turn on and off, emulating the behavior of a movie marquee. I was only able to accomplish such an effect thanks to a workshop by Team Treehouse. I have never put animation into any of my projects before so I am happy that I finally did. Sometimes a concept like animation with CSS can seem so intimidating until I just suck it up and try it out. Even though I had the whole day to work on anything, I did not utilize like I should have. Not making any programming progress on Saturday has been my typical behavior for about the past seven weeks, which is the majority of this challenge. I am happy that I did a little bit of work, I would have liked to do more, but something is better than nothing. This next week, starting tomorrow, I will completely focus on making progress on freeCodeCamp and Code Signal and contributing code to Github every day of the week!
 
 **Links to work:**
 - [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
@@ -23,7 +34,7 @@
 
 **Today's Progress**: Worked on the projects for my Front End Libraries Certification for @freeCodeCamp
 
-**Thoughts:** Today I was not as productive as I wanted to be. I messed around last night, worked on code for a little bit in the morning, and then had a very busy day at work. I was able to complete an exercise from Code Signal and I made some small adjustments to the code for my Random Quote Machine. My manager gave me some extra responsbility by allowing me to be the manager of my team's ticket queue. It is not the most sexy thing but there is opportunity for me to make it something. I know that I need to step up my SQL skills in order to build insightful reports about the number and types of tickets. I also want to make our ticket distributor more equal and fair. Life is truly what you make it. After work today, I hung out with a friend. Something that felt good to express to them is that I noticed today how I am one of the only people at work who lives with their parents. I am almost thirty. At some point in the last two years, I let go of my dreams. This challenge has kept me focused (I mean not all the time but at least I get back to it).
+**Thoughts:** Today I was not as productive as I wanted to be. I messed around last night, worked on code for a little bit in the morning, and then had a very busy day at work. I was able to complete an exercise from Code Signal and I made some small adjustments to the code for my Random Quote Machine. My manager gave me some extra responsbility by allowing me to be the manager of my team's ticket queue. It is not the most sexy thing but there is opportunity for me to make it something. I know that I need to step up my SQL skills in order to build insightful reports about the number and types of tickets. I also want to make our ticket distributor more equal and fair. Life is truly what you make it. After work today, I hung out with a friend. Something that felt good to express to them is that I noticed today how I am one of the only people at work who lives with their parents. I am almost thirty. At some point in the last two years, I let go of my dreams of being independent. This challenge has kept me focused (I mean not all the time but at least I get back to it).
 
 **Links to work:**
 - [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
@@ -33,7 +44,7 @@
 
 **Today's Progress**: Random Quote Machine project passes all the tests. Now to give it my personal style
 
-**Thoughts:** Today was my most productive day in a long time. I completed over forty lessons from a variety of sections by freeCodeCamp. I was able to watch some Team Treehouse videos and completed a few of the accompanying quizzes. I added the sound effect to my Pomodoro Clock Project for freeCodeCamp. I started the repositories for the other two projects for the Front End Web Development Certification. I completed some SQL exercises by Code Signal. I wrote all of the JavaScript logic for my Random Quote Machine Project for freeCodeCamp. But why was I so productive today? Perhaps it was because I was so unproductive last week that I felt I now had to something. Or perhaps it was because my best friend right now is about to turn twenty-six, which was when I started to code. When he mentioned it was his birthday, I suddenly thought back to where I thought I would be by now versus where I actually am. I know that I can go a lot of places, even now, but it will depend on accomplishing a lot, like tonight but every night. Whatever the reason I was productive tonight, I am happy that it happened. 
+**Thoughts:** Today was my most productive day in a long time. I completed over forty lessons from a variety of sections by freeCodeCamp. I was able to watch some Team Treehouse videos and completed a few of the accompanying quizzes. I added the sound effect to my Pomodoro Clock Project for freeCodeCamp. I started the repositories for the other two projects for the Front End Web Development Certification. I completed some SQL exercises by Code Signal. I wrote all of the JavaScript logic for my Random Quote Machine Project for freeCodeCamp. But why was I so productive today? Perhaps it was because I was so unproductive last week that I felt I had to something. Or perhaps it was because my best friend right now is about to turn twenty-six, which was when I started to code. When he mentioned it was his birthday, I suddenly thought back to where I thought I would be by now versus where I actually am. I know that I can go a lot of places, even now, but it will depend on accomplishing a lot, like tonight but every night. Whatever the reason I was productive tonight, I am happy that it happened. 
 
 **Links to work:**
 - [My freeCodeCamp Profile](https://www.freecodecamp.org/iccir919)
