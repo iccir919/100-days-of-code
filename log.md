@@ -2,11 +2,13 @@
 
 ### Day 68: June 1, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Read through all of Chapter 15 - Handling Events of Eloquent JavaScript (still need to complete the exercises). Continuing to make progress through the Reporting with SQL course by Team Treehouse.
 
-**Thoughts:** 
+**Thoughts:** I have only quit messing round for a day and I already feel my mind craving to mess around. I truly have a diseased mind; craving what I know is bad for me. I keep asking myself over and over, "What do I really want?" I say that I want to be a better programmer but I have chosen many times in the past to do anything but this. I started to keep a personal journal today, so hopefully I will keep more of the non-programming related things about my life in there rather than in this log. My latest tweet about the completion of my Random Quote Machine project for freeCodeCAmp was my fourth most popular since I started  challenge in March. Today was my most productive Monday in a long time. I attribute much of my success to taking small sanity breaks during my work to do something completely different like learning SQL. Well, I say different but there is a actually lot of overlap potential that I have yet to access. I could have always down this but instead chose to mess around in the past. Not since Day 41 of this challenge have I read Eloquent JavaScript like I did today. I have not had a dark green square on a Monday in my Github contribution visualzation in fifteen weeks. I am going to continue to keep up this momentum during this upcoming week. I have not felt this good about myself in a long time. Overall, I am happy with where I am at. I always wish I could be further but to have a day like today makes me feel at least optimistic about the future. 
 
 **Links to work:**
+- [Reporting With SQL](https://teamtreehouse.com/library/reporting-with-sql)
+- [Elqouent JavaScript](https://eloquentjavascript.net)
 
 
 ### Day 67: May 31, 2020
