@@ -1,10 +1,47 @@
 # Log
 
+### Day 72: June 6, 2020
+
+**Today's Progress**: Claimed my Responsive Web Design certification and continuing to make progress on my projects for the Front End Libraries certification
+
+**Thoughts:** Today I did not accomplish everything I wanted to but this is normal for the weekend. I messed around a lot yesterday. It was Friday and I just did not want to do anything work related in the evening. Unfortunately, I went to the extreme oppositte and did basically nothing. It's not that I don't want to code but I just want some relief from work. I almost made progress every day of this week through the freeCodeCamp curriculum but I missed yesterday. Some good news is that I did push make a commit to Github every day this week, something I have not done since Februrary 2, 2020. There are a lot of great projects that I am currently working on. That is why tonight I posted my Responsive Web Design projects on my Twitter. I was waiting for them to get to a perfect level but it's probably better I just get them out now. I can always improve them later. The reaction is not what I was hoping it to be but the attention from others should not be the reason for these projects. The most important things is that I learned some things, which I most definitely did, while completing these projects. Overall, I am seeing progress in myself; like at least I did some small things this Saturday, which is better than the nothing that has happened so many times before. I feel like I am getting a handle over myself slowly but surely. 
+
+**Links to work:**
+[Responsive Web Design Projects](https://iccir919.github.io/fcc-responsive-web-design-projects/)
+
+### Day 71: June 4, 2020
+
+**Today's Progress**: Got my buttons in formation for the JavaScript Calculator project for freeCodeCamp. CSS Grid has been extremely helpful. Continuing to make progress in the Querying Relational Databases course by Team Treehouse
+
+**Thoughts:** Today, the tweet that I described what I did today was my most popular; I believe its success was the attention (a like) it received from Team Treehouse and freCodeCamp. I feel very knowledgeable about web development that I thought to style the positions of the buttons for my JavaScript Calculator project with CSS Grid. I was especially happy when it actually worked out. I stayed up way too late last night. I am happy that I made it through the day without falling asleep. I was talking to my friend about a lot of things but most noteworthy was the protests against police brutality and systemic racial inequalities. There is a lot of backlash on Twitter for people like me who are continuing to post about tech but do not bring up discussion about current events. This coding challenge is the only thing keeping me sane these days. It is an escape for me but actually a healthy one. I am very appreciative to be able to go through the Team Treehouse course for Querying Relational Databases. I know that the material the course presents will very soon be applicable to the work I do for my job, especially in terms of scoping an issue. 
+
+**Links to work:**
+- [Querying Relational Databases](https://teamtreehouse.com/library/querying-relational-databases)
+- [freeCodeCamp](https://www.freecodecamp.org/)
+
+### Day 70: June 3, 2020
+
+**Today's Progress**: Beginning the Querying Relational Databases course by Team Treehouse
+
+**Thoughts:** I have made consistent progress in my commits to Github, progress through the lessons from freeCodeCamp and the course by Team Treehouse, and lastly, attempting to complete a challenge exercise by Code Signal. However, I also face me trying unsuccessfully attempting to cope with my pain body in an unhealthy manner. I am not sure why I am doing this. Do I feel that I am such in a good place with the track I am on that I feel messin round is no issue? I have restarted the JavaScript 30 course by Wes Bos. I am not sure what number of attempt this is to complete it. I added the user stories to the README of the Drum Machine project and I added the exercises for Chapter 16 of Eloquent JavaScript. If I just don't stop, stay on track, and don't fall into the darkness which is my pain body, then I will excel more this summer than I have many ones before. But my recent behavior does not make me feel hopeful that I have control over myself and therefore my future. I am a slave to myself because I let my mind and especially its connectedness to the past control me in the now. At least by writing in this journal, many times about this exact same topic, that I am realizing how much of a problem this is for me. My only hope is that I make the necessary change to embracing myself and moving forward.
+
+**Links to work:**
+[Querying Relational Databases](https://teamtreehouse.com/library/querying-relational-databases)
+
+### Day 69: June 2, 2020
+
+**Today's Progress**: Completed the Reporting with SQL course
+
+**Thoughts:** Today I continued keeping a balance of doing work but also taking breaks to work on my SQL course. The result is that I feel more focused when I am working and when I look back at a day, I feel more productive overall since I not only did work but also accomplished some learning. It has taken me a long time to get to this point where I feel like I am almost in a good routine. Perhaps when I move past the projects that I have already completed before in an earlier time will I feel like I am actually going somewhere. I was not able to keep away from messing around today. It is too engrained of a habit for me to be able stop. I have recognized how bad it makes me feel after though. I am applying the knowledge I learn from the SQL course to the Code Signal database exercises. The eventual goal is to write helpful queries and make insightful dashboards for work. I will have watched all the episodes a televesion show for the first time in a long, long, long time. There is this newfound sense of energy to complete my goals. I have isolated myself from my friends lately and I wish it was not this way. However, I get so easily distracted by other people. I will focus on my own goals first and then come back to them, hopefully it will not be too late. I just can't continue to pretend that I am happy to them when I actually feel empty inside. 
+
+**Links to work:**
+- [Reporting With SQL](https://teamtreehouse.com/library/reporting-with-sql)
+
 ### Day 68: June 1, 2020
 
 **Today's Progress**: Read through all of Chapter 15 - Handling Events of Eloquent JavaScript (still need to complete the exercises). Continuing to make progress through the Reporting with SQL course by Team Treehouse.
 
-**Thoughts:** I have only quit messing round for a day and I already feel my mind craving to mess around. I truly have a diseased mind; craving what I know is bad for me. I keep asking myself over and over, "What do I really want?" I say that I want to be a better programmer but I have chosen many times in the past to do anything but this. I started to keep a personal journal today, so hopefully I will keep more of the non-programming related things about my life in there rather than in this log. My latest tweet about the completion of my Random Quote Machine project for freeCodeCAmp was my fourth most popular since I started  challenge in March. Today was my most productive Monday in a long time. I attribute much of my success to taking small sanity breaks during my work to do something completely different like learning SQL. Well, I say different but there is a actually lot of overlap potential that I have yet to access. I could have always down this but instead chose to mess around in the past. Not since Day 41 of this challenge have I read Eloquent JavaScript like I did today. I have not had a dark green square on a Monday in my Github contribution visualzation in fifteen weeks. I am going to continue to keep up this momentum during this upcoming week. I have not felt this good about myself in a long time. Overall, I am happy with where I am at. I always wish I could be further but to have a day like today makes me feel at least optimistic about the future. 
+**Thoughts:** I have only quit messing round for a day and I already feel my mind craving to mess around. I truly have a diseased mind; craving what I know is bad for me. I keep asking myself over and over, "What do I really want?" I say that I want to be a better programmer but I have chosen many times in the past to do anything but this. I started to keep a personal journal today, so hopefully I will keep more of the non-programming related things about my life in there rather than in this log. My latest tweet about the completion of my Random Quote Machine project for freeCodeCamp was my fourth most popular since I started  challenge in March. Today was my most productive Monday in a long time. I attribute much of my success to taking small sanity breaks during my work to do something completely different like learning SQL. Well, I say different but there is a actually lot of overlap potential that I have yet to access. I could have always down this but instead chose to mess around in the past. Not since Day 41 of this challenge have I read Eloquent JavaScript like I did today. I have not had a dark green square on a Monday in my Github contribution visualzation in fifteen weeks. I am going to continue to keep up this momentum during this upcoming week. I have not felt this good about myself in a long time. Overall, I am happy with where I am at. I always wish I could be further but to have a day like today makes me feel at least optimistic about the future. 
 
 **Links to work:**
 - [Reporting With SQL](https://teamtreehouse.com/library/reporting-with-sql)
