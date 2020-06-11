@@ -1,5 +1,32 @@
 # Log
 
+### Day 75: June 9, 2020
+
+**Today's Progress**: Basic styling complete for Markdown Previewer project for freeCodeCamp and read through Chapter 16 - Project: A Platform Game of Eloquent JavaScript
+
+**Thoughts:** Well, even though I know my Markdown Previewer project is not perfect, I got it to at least a useable state. I really want to obtain at least my Front End Libraries certification from freeCodeCamp by the end of this challenge; the ideal case would getting the Data Visualization certification too. The Markdown Previewer project showed me that I do not need all of technologies like Webpack to use React.js. Sure it is a pain but a person can use React.js with just plain JavaScript. In reading chapter 16 of Eloquent JavaScript, I was very much reminded of where I left off with The Nature of Code, which maybe was part of my plan all along? There was a mention of a physics engine, which is what the next chapter for the Nature of Code was going to focus on building. There was also a focus on the topic of building classes for different parts of an enviornment that are seperate. However, they all interact with each other in terms of the way the game operates, such as a wall, player, lava, and coins. Completing this book is another goal of mine by the end of this challenge. Why is this entry so focused on the end of this challenge? Well, I am already three quarters of the way through it and only one of the tasks on my goal list has been checked off. 
+
+**Links to work:**
+[Markdown Previewer project](https://github.com/iccir919/markdown-previewer)
+
+### Day 74: June 8, 2020
+
+**Today's Progress**: Continuing to style my Markdown Previewer project. One thing that has been fun about this project is using React.js but not using JSX
+
+**Thoughts:** The day started off with my completing some JavaScript exercises from CodeSignal. Granted, I have completed these exercises before, which makes me feel like I'm sort of insane, just "accomplishing" the same things over and over again and *not* actually making anything better. After work I went back to styling my Markdown Previewer project for freeCodeCamp and realized I had not started styling with a mobile first approach. Once I made the screen smaller, everything about the organization of the content collapsed. I immediately started over, focusing on the smallest screen size first and designing for larger screens later. I reached a decent point where things look okay but I know there is still a lot of work to be done. Of course, when I opened the project on my phone, everything looked like garbage, like the font was too small. Why can't things look the same across all web browsers and devices? Like if I am viewing a website at a certain screen size on my computer, then it should look the same on my phone screen of the same size. But alas, this is not the way it is. I have realized how much work there is to do not only with this project but all the ones before it and also after it. 
+
+**Links to work:**
+[Markdown Previewer project](https://github.com/iccir919/markdown-previewer)
+
+### Day 73: June 7, 2020
+
+**Today's Progress**: Markdown Previewer project passes all the required tests. Spoiler:  this project is an example on the React Docs homepage (https://reactjs.org/#a-component-using-external-plugins). Anyways, now to give my version some style
+
+**Thoughts:** Started the day off by completing a Code Signal database question that involved using the IF function, which allows specification of what value to return based off the column value. I feel there are so many things to learn about SQL and I worry about how does any of it stick? Or is it about knowing how to look at a list of functions and knowing which to use, like an artist looking at their palette of colors for a painting? My older brother stayed the night so I did not get to spend as much time coding as I had planned. I began styling the Markdown Previewer project. Not going to lie, I found another one and just tried to copy it's design. No, I didn't just copy and paste the CSS but I just tried to copy someone else's design and wrote my own CSS to do so. I found myself immediately reaching for new CSS technologies like flexbox and grid to cleanly organize the content. The logic of the Markdown Previewer project was easy since I lifted most of it from the example code provided on the homepage of React's documentation. This is a project when I previously attempted to accomplish the Front End Libraries projects of freeCodeCamp had been scared to complete because it seemed hard. Now, I see that it can be accomplished with just a few lines of code. 
+
+**Links to work:**
+[Markdown Previewer project](https://github.com/iccir919/markdown-previewer)
+
 ### Day 72: June 6, 2020
 
 **Today's Progress**: Claimed my Responsive Web Design certification and continuing to make progress on my projects for the Front End Libraries certification
